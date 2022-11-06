@@ -1,0 +1,34 @@
+model
+size = 9 9 29, scale = 0.05, origin = -y
+material 
+  colors = A:#EEE B:#BBB C:#111 D:#A00 E:#AAA F:#777
+voxels
+--------- --------- --------- ----C---- ---CCC--- ----C---- --------- --------- --------- 
+--------- --------- --------- ---CCC--- ---CCC--- ---CCC--- --------- --------- --------- 
+--------- --------- --------- ---CCC--- ---CCC--- ---CCC--- --------- --------- --------- 
+--------- --------- --------- ---BBB--- ---BCB--- ---BBB--- --------- --------- --------- 
+--------- --------- --------- ---BBB--- ---BCB--- ---BBB--- --------- --------- --------- 
+--------- --------- ---BBB--- --B---B-- --B-C-B-- --B---B-- ---BBB--- --------- --------- 
+--------- --------- ---BBB--- --B---B-- --B-C-B-- --B---B-- ---BBB--- --------- --------- 
+--------- ---BBB--- --B---B-- -B-----B- -B--C--B- -B-----B- --B---B-- ---BBB--- --------- 
+---BBB--- --B---B-- -B-----B- B-------B B---C---B B-------B -B-----B- --B---B-- ---BBB--- 
+--AAAAA-- -A-----A- A-------A A-------A A---C---A A-------A A-------A -A-----A- --AAAAA-- 
+--AAAAA-- -AA---AA- AA-----AA A-------A A---C---A A-------A AA-----AA -AA---AA- --AAAAA-- 
+--AAAAA-- -AA---AA- AA-----AA A-------A A---C---A D-------D AA-----AA -AA---AA- --AAAAA-- 
+--AAAAA-- -AA---AA- AA-----AA A-------A D---C---D D-------D AA-----AA -AA---AA- --AAAAA-- 
+--AAAAA-- -AA---AA- AA-----AA A-------A A---C---D D-------D AA-----AA -AA---AA- --AAAAA-- 
+--AAAAA-- -AA---AA- AA-----AA F-------A A---C---D A-------D AA-----AA -AA---AA- --AAAAA-- 
+--AAAAA-- -AA---AA- AA-----AA F-------F D---C---D A-------D AA-----AA -AA---AA- --AAAAA-- 
+--AAAAA-- -AA---AA- AA-----AA F-------F D---C---D D-------D AA-----AA -AA---AA- --AAAAA-- 
+--AAAAA-- -AA---AA- AA-----AA F-------F D---C---D D-------D AA-----AA -AA---AA- --AAAAA-- 
+--AAAAA-- -AA---AA- AA-----AA F-------F D---C---D D-------D AA-----AA -AA---AA- --AAAAA-- 
+--AAAAA-- -AA---AA- AA-----AA F-------F D---C---D D-------D AA-----AA -AA---AA- --AAAAA-- 
+--AAAAA-- -AA---AA- AA-----AA F-------F D---C---D D-------A AA-----AA -AA---AA- --AAAAA-- 
+--AAAAA-- -AA---AA- AA-----AA A-------F D---C---A D-------A AA-----AA -AA---AA- --AAAAA-- 
+--AAAAA-- -AA---AA- AA-----AA A-------A D---C---A D-------D AA-----AA -AA---AA- --AAAAA-- 
+--AAAAA-- -AA---AA- AA-----AA A-------A D---C---D D-------D AA-----AA -AA---AA- --AAAAA-- 
+--AAAAA-- -AA---AA- AA-----AA A-------A A---C---A D-------D AA-----AA -AA---AA- --AAAAA-- 
+--AAAAA-- -AA---AA- AA-----AA A-------A A---C---A A-------A AA-----AA -AA---AA- --AAAAA-- 
+--AAAAA-- -AE---EA- AE-----EA A-------A A-------A A-------A AE-----EA -AE---EA- --AAAAA-- 
+--------- ---BBB--- --B---B-- -B-----B- -B-----B- -B-----B- --B---B-- ---BBB--- --------- 
+--------- --------- ---EEE--- --EEEEE-- --EEEEE-- --EEEEE-- ---EEE--- --------- --------- 

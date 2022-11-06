@@ -1,0 +1,15 @@
+model
+size = 12 5 10, scale = 0.05, origin = -y
+material 
+  colors = A:#FC3
+voxels
+------------ ------------ AAA-AAAA-AAA AAA-AAAA-AAA -A---AA---A- 
+--AAAAAAAA-- --AAAAAAAA-- AAAAAAAAAAAA AAA-AAAA-AAA -A---AA---A- 
+--AAAAAAAA-- --AAAAAAAA-- -AAAAAAAAAA- -AA--AA--AA- ------------ 
+--AAAAAAAA-- --AAAAAAAA-- --AAAAAAAA-- ------------ ------------ 
+--AAAAAAAA-- --AAAAAAAA-- --AAAAAAAA-- ------------ ------------ 
+--AAAAAAAA-- --AAAAAAAA-- --AAAAAAAA-- ------------ ------------ 
+---AAAAAA--- ---AAAAAA--- ------------ ------------ ------------ 
+---AAAAAA--- ---AAAAAA--- ------------ ------------ ------------ 
+---AAAAAA--- ---AAAAAA--- ------------ ------------ ------------ 
+----AAAA---- ------------ ------------ ------------ ------------ 

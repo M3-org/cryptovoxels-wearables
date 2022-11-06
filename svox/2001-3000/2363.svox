@@ -1,0 +1,30 @@
+model
+size = 8 7 25, scale = 0.05, origin = -y
+material 
+  colors = A:#777 B:#F90 C:#888 D:#555 E:#339
+voxels
+-------- -------- -------- -------- -------- BBBBBBBB AAAAAAAA 
+-------- -------- -------- -------- -------- BBBBBBBB AAAAAAAA 
+-------- -------- -------- -------- BBBBBBBB BBBBBBBB AAAAAAAA 
+-------- -------- -------- -------- BBBBBBBB AAAAAAAA -------- 
+-------- E------E -------- -------- BBBBBBBB AAAAAAAA -------- 
+E------E EDDDDDDE E--DD--E ---DD--- BBBBBBBB AAAAAAAA -------- 
+-------- E------E -------- -------- BBCBCBBB AAAAAAAA -------- 
+-------- -------- -------- -------- BBCBCBBB AAAAAAAA -------- 
+-------- -------- -------- -------- BCCCCCBB AAAAAAAA -------- 
+-------- -------- -------- -------- BBCBCBCB AAAAAAAA -------- 
+-------- -------- -------- -------- BBCBCBCB AAAAAAAA -------- 
+-------- -------- -------- -------- BBCCCCBB AAAAAAAA -------- 
+-------- -------- -------- -------- BBCBCBCB AAAAAAAA -------- 
+-------- -------- -------- -------- BBCBCBCB AAAAAAAA -------- 
+-------- -------- -------- -------- BBCBCBCB AAAAAAAA -------- 
+-------- -------- -------- -------- BCCCCCBB AAAAAAAA -------- 
+-------- -------- -------- -------- BBCBCBBB AAAAAAAA -------- 
+-------- E------E -------- -------- BBBBBBBB AAAAAAAA -------- 
+E------E EDDDDDDE E--DD--E ---DD--- BBBDDBBB AAAAAAAA -------- 
+-------- E------E -------- -------- BBBBBBBB AAAAAAAA -------- 
+-------- -------- -------- -------- BBBBBBBB AAAAAAAA -------- 
+-------- -------- -------- -------- BBBBBBBB AAAAAAAA -------- 
+-------- -------- -------- -------- BBBBBBBB BBBBBBBB AAAAAAAA 
+-------- -------- -------- -------- -------- BBBBBBBB AAAAAAAA 
+-------- -------- -------- -------- -------- BBBBBBBB AAAAAAAA 

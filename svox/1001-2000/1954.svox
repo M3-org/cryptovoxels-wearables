@@ -1,0 +1,16 @@
+model
+size = 12 21 11, scale = 0.05, origin = -y
+material 
+  colors = A:#111 B:#C96 C:#222 D:#DDD E:#F96 F:#60C G:#CC3 H:#99F I:#C36 J:#060 K:#306 L:#9CF
+voxels
+------------ ----A------- ----A------- ----A-A----- ----A-A----- ----A-A----- ----A-A----- ----A-A----- ----A-A----- ----A-A----- ----A-A----- ----A-A----- ----A-A-F--- ----A-A-G--- ----A-A-G--- ----A-A-B--- ----AAA----- ----AAA----- ------------ ------------ ------------ 
+------------ ------------ ------------ ------------ ------------ -------A---- ------AA---- ----A-AA---- ----A--A---- ----A--A---- ----A--A---- ----A--A---- ----A--A---- ----A--A-BBB ----A--AB--- ---CCAAA---- ---CCAAAB--- --ACCAAA---- --ACCAAA---- --ACCAAA---- ------------ 
+------------ ------------ ------------ ------A----- ------A----- ------A----- ------A----- ------A----- ---C--A----- ---C--A----- -A-C--A----- -A-C--A----- -A-C-AAABBB- -A-C-AAABBBB -A-CAAA-BBB- -AACAAAABBD- -AACAAAADBB- -ABCAAAAHBF- -ABCAAAABB-- --ACCAAAAA-- ------------ 
+------------ ------------ ------------ ------------ ------------ ------------ ------------ -------A---- -------A---- -A-----A---- -A-----A---- -A---CAABBB- -A---CAABBB- -A--CCAABBB- -A-ACCAA-BB- ABAACCAAJLK- ABAACCAADDB- ABBBCCAAHBF- ABBBCCAABBB- -AACCCBAAAA- -----CA----- 
+------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ----C-BBBB-- ---ACCBBBBB- -A-A-CBBBBI- -A-ACCBBBBB- -AAACCBBBBB- ABAACCBBDDD- ABAACCBEDDB- ABBBCCBEBBF- ABBBCCBBBBB- -AACCCBAAAA- ----CCA----- 
+------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ --A--------- --A--------- --A---BBBB-- --A--CBBBBB- --A--CABBBI- -AABCCABBBB- -ABBCCBBBBBB ABBBCCBBBBB- ABBBCCEEBBB- ABBBCCEEBBB- ABBBCCBBBBB- -AACCCBAAAA- ----CCA----- 
+------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ -A---------- -A---------- -A----BBBB-- -A---CBBBBB- -A---CABBBI- -A-BCCABBBB- -ABBCCBBBBB- ABBBCCBBDDD- ABBBCCBEDDB- ABBBCCBEBBF- ABBBCCBBBBB- -AACCCBAAAA- ----CCA----- 
+------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ---A-------- -A-A-------- -A-A-------- -A-A-CBBBBB- -A-A-CABBBB- -A-ACCAABBB- -A-ACCAA-BB- ABBACCAAJLK- ABBBCCAADDB- ABBBCCAAHBF- ABBBCCAABBB- -AACCCBAAAA- -----CA----- 
+------A----- ----A-A----- ----A-A-A--- ----A-A-A--- ----A-A-A--- ----A-A-A--- ----A-A-A--- ----A-A-A--- ----C-C-A--- --A-C-C-A--- --A-C-CAA--- --A-C-CA---- --A-CCABBBB- --A-CCAABBBB -AA-CCAABBB- -ABACCAABBD- AABBCCAADBB- AABBCCAAHBF- AABBCCAABB-- --ACCCAAAA-- ------------ 
+------------ ------------ -------A---- -------A---- -------A---- -------A---- -------A---- -------A---- -----A-A---- -----A-A---- -----A-A---- -----A-A---- -----A-A---- -----A-ABBBB -----A-AB--- -AAAAAAA---- -AAACACAB--- -AAACACA---- -AAACACA---- --ACCCCA---- ------------ 
+------------ ----A------- ----A-A----- ----A-A----- ----A-A----- ----A-A----- ----A-A----- ----A-A----- ----C-C----- ----C-C----- ----C-C----- ----C-C----- ----C-C-F--- ----C-C-G--- ----C-C-G--- ----C-C-B--- ----CAC----- ----CAC----- ------------ ------------ ------------ 

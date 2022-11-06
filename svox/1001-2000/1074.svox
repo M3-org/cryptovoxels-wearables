@@ -1,0 +1,26 @@
+model
+size = 29 2 21, scale = 0.05, origin = -y
+material 
+  colors = A:#630 B:#A00 C:#963 D:#F30 E:#300 F:#777 G:#500 H:#555 I:#EEE J:#F60
+voxels
+--------------I-------------- ----------------------------- 
+-------------FFFH------------ ----------------------------- 
+AAAAAAAAAAAAAAAFIDDDDDDDDDDGG ---------------FIH----------- 
+ACCCCCECCCCCECCFIHBBBBBBBBBDG ---------------FDI----------- 
+ACAAAAECAAAAECAAFHBBBBBJDBBBG ---------------FHD----------- 
+ACAAAAECAAAAECAIDHBBBBJBJDBBG ---------------FD------------ 
+ACAAAAECAAAAECAFIIBBBJBBBJDBG ----------------IH----------- 
+ACAAAAECAAAAECAAFHBBBJBBBJDBG ----------------FI----------- 
+ACAAAAECAAAAECAAIDBBBJDBJJDBG ---------------FFD----------- 
+ACAAAAECAAAAECAFHHBBBBBBBBBBG --------------FFDH----------- 
+AAEEEEEEEEEEEEEFDBBBBJDBBBBBG -------------FIDH------------ 
+ACCCCCECCCCCECFHHBBBBJJJJJDBG -------------FFH------------- 
+ACAAAAECAAAAECFIHBBBBBBBJDBBG --------------FH------------- 
+ACAAAAECAAAAECADHBBBBBBJDBBBG --------------FFH------------ 
+ACAAAAECAAAAECAFIBBBBJJDBBBDG ---------------FI------------ 
+ACAAAAECAAAAECADIHBBBJDBBBBDG ---------------IDH----------- 
+ACAAAAECAAAAEFFHHBBBBBBBBBBBG --------------FII------------ 
+ACAAAAECAAAAEFHHDDDDDDDDBBDGG -------------FFH------------- 
+AAAAAAAAAAAAAIHGGGGGGGGGGGGGG -------------FH-------------- 
+-------------FH-------------- -------------FI-------------- 
+-------------I--------------- ----------------------------- 

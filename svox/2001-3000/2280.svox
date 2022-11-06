@@ -1,0 +1,6 @@
+model
+size = 19 3 1, scale = 0.05, origin = -y
+material 
+  colors = A:#111 B:#EEE
+voxels
+----AAB-----BAA---- -AAAAAA-----AAAAAA- A-----------------A 

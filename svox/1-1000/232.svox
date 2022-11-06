@@ -1,0 +1,36 @@
+model
+size = 4 28 31, scale = 0.05, origin = -y
+material 
+  colors = A:#FCF B:#222 C:#E00 D:#C00 E:#F03
+voxels
+---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- -BB- ---- ---- ---- ---- ---- ---- 
+---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- DAAD DAAD -BB- ---- ---- ---- ---- ---- 
+---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- DAAD CAAC DAAD DAAD -BB- ---- ---- ---- ---- 
+---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- CAAC CAAC DAAD CAAC DAAD DAAD -BB- ---- ---- ---- 
+---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- CAAC CAAC CAAC CAAC CAAC CAAC DAAD -BB- ---- ---- ---- 
+---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- EAAE EAAE EAAE CAAC CAAC CAAC DAAD DAAD DAAD -BB- ---- ---- 
+---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- AAAA AAAA EAAE EAAE EAAE CAAC CAAC CAAC DAAD BAAB -BB- ---- ---- 
+---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- AAAA AAAA AAAA EAAE EAAE CAAC BAAB BAAB BAAB DAAD DAAD -BB- ---- 
+---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- AAAA AAAA BAAB BAAB BAAB CAAC CAAC CAAC CAAC DAAD -BB- ---- 
+---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- BAAB AAAA EAAE EAAE EAAE CAAC CAAC DAAD DAAD -BB- ---- 
+---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- AAAA AAAA AAAA AAAA EAAE CAAC CAAC CAAC CAAC DAAD -BB- 
+---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- AAAA AAAA AAAA EAAE EAAE EAAE CAAC CAAC CAAC DAAD -BB- 
+---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- AAAA AAAA AAAA EAAE BAAB BAAB BAAB BAAB BAAB -BB- 
+---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- BAAB BAAB BAAB BAAB EAAE CAAC CAAC CAAC DAAD -BB- 
+---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- AAAA AAAA AAAA EAAE EAAE CAAC CAAC DAAD DAAD -BB- 
+---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- AAAA AAAA EAAE EAAE EAAE CAAC CAAC CAAC DAAD -BB- 
+---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- AAAA AAAA AAAA EAAE EAAE CAAC CAAC DAAD DAAD -BB- 
+---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- -BB- BAAB BAAB BAAB BAAB EAAE CAAC CAAC CAAC DAAD -BB- 
+---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- AAAA AAAA AAAA AAAA EAAE BAAB BAAB BAAB BAAB BAAB -BB- 
+---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- AAAA AAAA AAAA AAAA EAAE EAAE EAAE CAAC CAAC DAAD -BB- ---- 
+---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- BAAB BAAB AAAA AAAA EAAE EAAE EAAE CAAC CAAC DAAD DAAD -BB- ---- 
+---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- AAAA AAAA AAAA BAAB BAAB EAAE EAAE CAAC CAAC CAAC CAAC DAAD -BB- ---- 
+---- ---- -BB- -BB- -BB- -BB- ---- ---- ---- ---- ---- ---- -BB- AAAA AAAA AAAA AAAA EAAE EAAE BAAB BAAB CAAC CAAC CAAC DAAD -BB- ---- ---- 
+---- -BB- CAAC CAAC BAAB EAAE -BB- -BB- -BB- -BB- -BB- -BB- AAAA BAAB AAAA AAAA EAAE EAAE EAAE CAAC CAAC BAAB BAAB DAAD DAAD -BB- ---- ---- 
+-BB- DAAD DAAD BAAB CAAC EAAE EAAE BAAB EAAE EAAE BAAB AAAA AAAA EAAE BAAB EAAE EAAE EAAE CAAC CAAC CAAC DAAD DAAD BAAB -BB- ---- ---- ---- 
+---- -BB- BAAB DAAD CAAC CAAC CAAC BAAB CAAC EAAE EAAE BAAB EAAE EAAE EAAE BAAB EAAE CAAC CAAC CAAC CAAC CAAC DAAD -BB- ---- ---- ---- ---- 
+---- ---- -BB- DAAD DAAD CAAC BAAB CAAC CAAC CAAC CAAC BAAB CAAC EAAE CAAC CAAC BAAB CAAC CAAC DAAD CAAC DAAD -BB- ---- ---- ---- ---- ---- 
+---- ---- ---- -BB- DAAD DAAD BAAB CAAC DAAD CAAC CAAC CAAC BAAB CAAC CAAC CAAC CAAC BAAB DAAD DAAD DAAD -BB- ---- ---- ---- ---- ---- ---- 
+---- ---- ---- ---- -BB- -BB- BAAB DAAD DAAD CAAC DAAD CAAC BAAB CAAC DAAD CAAC DAAD DAAD BAAB -BB- -BB- ---- ---- ---- ---- ---- ---- ---- 
+---- ---- ---- ---- ---- ---- -BB- -BB- -BB- DAAD DAAD DAAD DAAD BAAB DAAD DAAD -BB- -BB- -BB- ---- ---- ---- ---- ---- ---- ---- ---- ---- 
+---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- -BB- -BB- -BB- -BB- -BB- -BB- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- 

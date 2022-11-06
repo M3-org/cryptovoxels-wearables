@@ -1,0 +1,35 @@
+model
+size = 2 31 30, scale = 0.05, origin = -y
+material 
+  colors = A:#F5F5BF B:#444 C:#500 D:#E00 E:#B00 F:#A00 G:#FCC
+voxels
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA AB AB BB BB BB AA AA AA AA AA AA BA AA 
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA BB BA BA AA AB AA AB AA AA BA BA BB AA 
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA AA AA BA BA BA AA BB BB BB BB AB AB AA 
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA AB AB AB AB AB AA BB BB BB BB BB BB AA 
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA BB BA BA BA BB AA BB AA AA BA BA BB AA 
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA AB BB AB AB AB AA AA AA AA AA AA BA AA 
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA AA AA BA AA AA AA BA AA AA AC AC AA AA 
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA AB AB AB BB AB AA BA BA BC BE BF BC AA 
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA BA BA BA BA BB AA BA AC AE AD BD BC AA 
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA AA AA AB AB AA AA AC AE AD BD BC AA AA 
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA BA BA BA BA BB AA AA AC BD BD AD AC AA 
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA AB AB BB AB BB AA AA AA AC BD BG AC AA 
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA BA BA BA BA BA AA BA AA AA AC BC BA AA 
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA AB AB AB AB AB AA BA BA BA BA BA BA AA 
+BB BB BB BB BB BB BB BB BB BB BB BB BB BB BB BB BB AA AA AA BB BA BB AA BB BA BA BA BA BB AA 
+BB BB BB BB BB BB BB BB BB BB BB BB BB BB BB BB BB AA AA AA BB AB BB AA BB AB AB AB AB BB AA 
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA BA BA BA BA BA AA AB AB AB AB AB AB AA 
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA AB AB AB AB AB AA AB AA AA CB CB AA AA 
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA BA BA BB BA BB AA AA AA CB DB GA CA AA 
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA AB AB AB AB BB AA AA CA DB DB DA CA AA 
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA AA AA BA BA AA AA CB EA DA DB CB AA AA 
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA AB AB AB AB BB AA AB CB EB DB DB CB AA 
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA BA BA BA BB BA AA AB AA CA EA FA CA AA 
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA AA AA AB AA AA AA AA AA AA CA CA AB AA 
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA BA BB BA BA BA AA AB AA AA AB AB AB AA 
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA BB AB AB AB BB AA AB AB AB AB AB AB AA 
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA BA BA BA BA BA AA BB AB AB AB AA BA AA 
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA AA AA AB AB AB AA BA BA BA BB BB BB AA 
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA BB AB AB AA BA AA BA BA BA BA BA BB AA 
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA BA BA BB BB BB AA BA AA AA AA AA BA AA 

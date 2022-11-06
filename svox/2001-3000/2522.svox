@@ -1,0 +1,16 @@
+model
+size = 30 8 11, scale = 0.05, origin = -y
+material 
+  colors = A:#FFF B:#FFD900 C:#FF211F D:#0052FF E:#FF482D F:#FFE866 G:#FF722D H:#00F5FF I:#00DFFF J:#00C3FF K:#00B1FF L:#008FFF M:#0078FF N:#0063FF O:#FF5D2D P:#FFE033
+voxels
+----AAAAAAAAAAAAAAAAAAAAAA---- ---AAAAAAAAAAAAAAAAAAAAAAAA--- AAAAA--------------------AAAAA ABAABBBBBBBBBBBBBBBBBBBBBBAABA ABAABBBBBBBBBBBBBBBBBBBBBBAABA AAAAA--------------------AAAAA ---AAAAAAAAAAAAAAAAAAAAAAAA--- ----AAAAAAAAAAAAAAAAAAAAAA---- 
+---GAAAAAAAAAAAAAAAAAAAAAAG--- --AAAAAAAAAAAAAAAAAAAAAAAAAA-- AAAAAHIJKLMNDDDDDDNMLKJIHAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAHIJKLMNDDDDDDNMLKJIHAAAAA --AAAAAAAAAAAAAAAAAAAAAAAAAA-- ---GAAAAAAAAAAAAAAAAAAAAAAG--- 
+--OAA--------------------AAO-- -AAAA--------------------AAAA- AAAAA--------------------AAAAA BAAAA--------------------AAAAB BAAAA--------------------AAAAB AAAAA--------------------AAAAA -AAAA--------------------AAAA- --OAA--------------------AAO-- 
+-EAAA--------------------AAAE- -AAAA--------------------AAAA- AAAAA--------------------AAAAA AAAAA--------------------AAAAA AAAAA--------------------AAAAA AAAAA--------------------AAAAA -AAAA--------------------AAAA- -EAAA--------------------AAAE- 
+-CAAA--------------------AAAC- -AAAA--------------------AAAA- AAAAA--------------------AAAAA AAAAA--------------------AAAAA AAAAA--------------------AAAAA AAAAA--------------------AAAAA -AAAA--------------------AAAA- -CAAA--------------------AAAC- 
+-CAAA--------------------AAAC- -AAAA--------------------AAAA- AAAAA--------------------AAAAA PAAAA--------------------AAAAP PAAAA--------------------AAAAP AAAAA--------------------AAAAA -AAAA--------------------AAAA- -CAAA--------------------AAAC- 
+-CAAA--------------------AAAC- -AAAA--------------------AAAA- AAAAA--------------------AAAAA AAAAA--------------------AAAAA AAAAA--------------------AAAAA AAAAA--------------------AAAAA -AAAA--------------------AAAA- -CAAA--------------------AAAC- 
+-CAAA--------------------AAAC- -AAAA--------------------AAAA- AAAAA--------------------AAAAA AAAAA--------------------AAAAA AAAAA--------------------AAAAA AAAAA--------------------AAAAA -AAAA--------------------AAAA- -CAAA--------------------AAAC- 
+-CAA----------------------AAC- -AAA----------------------AAA- AAAA----------------------AAAA FAAA----------------------AAAF FAAA----------------------AAAF AAAA----------------------AAAA -AAA----------------------AAA- -CAA----------------------AAC- 
+-CA------------------------AC- -AA------------------------AA- AAA------------------------AAA AAA------------------------AAA AAA------------------------AAA AAA------------------------AAA -AA------------------------AA- -CA------------------------AC- 
+-C--------------------------C- -A--------------------------A- AA--------------------------AA AA--------------------------AA AA--------------------------AA AA--------------------------AA -A--------------------------A- -C--------------------------C- 

@@ -1,0 +1,17 @@
+model
+size = 10 1 12, scale = 0.05, origin = -y
+material 
+  colors = A:#E40636 B:#11ADC1 C:#0A0A0A D:#EC50D9 E:#E0E0E0 F:#F99252
+voxels
+------BBBB 
+C---C--B-- 
+CCCCC-BBBB 
+C---C---F- 
+-------F-F 
+--------F- 
+AAA----EE- 
+AAAA--E--E 
+-AAAA-E--E 
+AAAA---DDD 
+AAA---D-D- 
+-------DDD 

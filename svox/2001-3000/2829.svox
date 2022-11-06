@@ -1,0 +1,18 @@
+model
+size = 14 9 13, scale = 0.05, origin = -y
+material 
+  colors = A:#FFF B:#E00 C:#EEE D:#FF7457 E:#9494F6 F:#1FE3ED G:#5848E1
+voxels
+----AAAAA----- ----AAAAA----- -------------- -------------- -------------- -------------- -------------- -------------- -------------- 
+--AAAAAAAAA--- --AAAAAACAA--- -------------- -------------- -------------- -------------- -------------- -------------- -------------- 
+-AAAAAAAAAAA-- -AAAAAAACCCA-- -------------- -----AAA------ -----AEA------ ----AGAFA----- ----AADAA----- ----AAAAAA---- ---AAAAAAA---- 
+-AAAAAAAAAAAA- -AAAAAAAAAAAA- ----AAAAA----- ----AAAAAA---- ---AAAAAAA---- ---AAAAAAA---- ---AAAAAAAA--- --AAAABBAAA--- --AAA-BBAAA--- 
+AAAAAAAAAAAAA- AAAAAA-AAAAAA- ---AAA-AAA---- ---AA---AA---- ---AA---AAA--- --AAA---AAA--- --AAAAAAAAA--- --AABBBBBAA--- --AABBBBBAA--- 
+AAAAAAAAAAAAA- AAAAA---AAAAA- ---AA----AA--- --AA-----AA--- --AA-----AA--- --AA-----AA--- --AAAAAAAAA--- --AABBBBBBAA-- --A-BBBBBBAA-- 
+AAAAAAAAAAAAA- AAAA------AAA- ---A-----AAA-- --AA-----AAAA- --AA-----AA-AA --AA------A-AA --AAAAAAAAAAAA --ABBBBBBBCCAA --ABBBBBBBCC-- 
+AAAAAAAAAAAAA- AAAAA-----AAA- ---A-----AAA-- --AA-----AAAA- --AA-----AA-AA --AA-----AA--A --AAAAAAAAAAAA --ABBBBBBBAAAA --ABBBBBBBCC-- 
+AAAAAAAAAAAAA- AAAAAA--A-AAA- ---AA---A----- ---AA---AAA--- --AAA----AA--- --AA-----AA--- --AAAAAAAAA--- --AABBBBBAA--- --AABBBBB-C--- 
+AAAAAAAAAAAAA- AAAAAAAAAAAAA- ---AAAAAAA---- ---AAAAAAA---- ---AA--AAA---- ---AA--AAAA--- --AAA-AAAAA--- --AAA-BBAAA--- --AAA-BB-AC--- 
+-AAAAAAAAAAA-- -AAAAAAAAAAA-- -----AAA------ ----AAEAA----- ----AFAGA----- ----AADAAA---- ---AAAAAAA---- ---AAAAAAA---- ---AAAAAAA---- 
+--AAAAAAAAA--- --AAAAAAAAA--- -------------- -------------- -------------- -------------- -------------- -----AAA------ -----AAA------ 
+---AAAAAAA---- ---AAAAAAA---- -------------- -------------- -------------- -------------- -------------- -------------- -------------- 

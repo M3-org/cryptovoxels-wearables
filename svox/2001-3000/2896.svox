@@ -1,0 +1,15 @@
+model
+size = 12 18 10, scale = 0.05, origin = -y
+material 
+  colors = A:#111 B:#777 C:#EEE D:#888
+voxels
+------------ ------------ ------A----- ------ADD--- --------C--- --------C--- ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ 
+------------ ------A----- ------A----- ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ 
+------------ ------A----- ------------ ------------ ------------ ------------ ------------ -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- ------------ ------------ 
+---AA--AA--- ---AAAAAA--- ---AAAAAA--- ---AAAAAA--- ---AAAAAA--- ---AAAAAA--- ---AAAAAA--- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- ------------ ------------ 
+------------ ------------ ---BBBBBB--- ---AAAAAA--- ---AAAAAA--- ---AAAAAA--- ---AAAAAA--- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- ------------ ------------ 
+------------ ------------ ---BBBBBB--- ---AAAAAA--- ---AAAAAA--- ---AAAAAA--- ---AAAAAA--- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- ------------ ------------ 
+------------ ------------ ---BBBBBB--- ---AAAAAA--- ---AAAAAA--- ---AAAAAA--- ---AAAAAA--- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AA------AA- -A--------A- 
+------------ ------------ ---BBBBBB--- ---AAAAAA--- ---AAAAAA--- ---AAAAAA--- ---AAAAAA--- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- ------------ ------------ 
+---AA--AA--- ---AA--AA--- ---ABBBBA--- ---ABBBBA--- ---AABBAA--- ---AAAAAA--- ---AAAAAA--- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- ------------ ------------ 
+------------ ------------ ------------ ------------ ------------ ------------ ------------ -AAAAAAAAAA- BBAAAAAAAABB -ACCABBACCA- -ACCAAAACCA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- ------------ ------------ 

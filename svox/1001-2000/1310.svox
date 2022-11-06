@@ -1,0 +1,11 @@
+model
+size = 14 17 6, scale = 0.05, origin = -y
+material 
+  colors = A:#555 B:#EEE C:#222 D:#BBB E:#444 F:#111 G:#777 H:#007 I:#CFF J:#00E K:#F0C
+voxels
+-------------- -BA--DCCD--AB- ABA--DCCD--ABA ABA--DCCD--ABA -BA--DCCD--AB- ------CC------ -------------- -------------- -------------- -------------- -------------- -------------- -------------- -------------- -------------- -------------- -------------- 
+-BA--------AB- ABA-ADCCDA-ABA ABA-ADEEDA-ABA ABA-ADEEDA-ABA ABA-ADEEDA-ABA -BA--DAAD--AB- ------CC------ -------------- -------------- -------------- -------------- -------------- -------------- -------------- -------------- -------------- -------------- 
+ABA--------ABA ABA-ADCCDA-ABA BBABACEEFABEEB BBABEEEECCBEEB ABA-AEEEEA-AEA ABA--AAAA--ABA -----DDDD----- ---DDDCCDDD--- -ADDDCCCCDDD-- -ADCCCCCCCCD-- -ADCCCCCCCCD-- ---DDDDDDDD--- -------------- -------------- -------------- -------------- -------------- 
+ABA--------ABA ABA-ADCCDA-AEA BBABAAAAAABEEB BBABCAAAAAKEEB ABABHHAAAABEEA ABA-AAAAAA-ABA ----DFFFDD---- ---BFCCCCFB--- -AICCCCCCCCB-- -ABCCCCCCCCB-- -ABCCCCCCCCB-- -G-BBBBBBBB--- -G------------ -G------------ -G------------ -AE----------- -AAA---------- 
+-BA--------AB- ABA-ADCCDA-ABA ABABA----ABEBA ABABA----ABEBA AJABFA--AABEBA -BA-AAAAFC-AB- ----DGDDGD---- ---BD----DB--- --I--------B-- --B--------B-- --B--------B-- ---BBBBBBBB--- -------------- -------------- -------------- -------------- -------------- 
+-------------- -BA--CCCC--AB- ABA-C----C-ABA ABA-C----C-ABA -BA-C----C-AB- ----CC--CC---- ----DD--DD---- ---DD----DD--- --D--------D-- --D--------D-- --D--------D-- ---DDDDDDDD--- -------------- -------------- -------------- -------------- -------------- 

@@ -1,0 +1,34 @@
+model
+size = 31 1 29, scale = 0.05, origin = -y
+material 
+  colors = A:#985F2A B:#111 C:#7D532C D:#0B1013 E:#6A4028 F:#B07736 G:#B35C37 H:#43341B I:#855B32 J:#211E55 K:#96632E L:#9B6E23 M:#222 N:#113285 O:#A36336 P:#261E47 Q:#C7802D R:#F9BF45 S:#CA7A2C T:#0F2540 U:#08192D V:#9A5034 W:#3A8FB7 X:#78552B Y:#876633 Z:#E98B2A Aa:#255359 Ab:#854836 Ac:#FAD689 Ad:#E2943B Ae:#82663A Af:#533D5B Ag:#0B346E Ah:#724832 Ai:#724938 Aj:#592C63 Ak:#577C8A Al:#8F5A3C Am:#C78550 An:#D9AB42 Ao:#74673E Ap:#3A3226 Aq:#3F2B36 Ar:#4E4F97 As:#3C2F41 At:#967249 Au:#B17844 Av:#DDA52D Aw:#FCFAF2 Ax:#FFB11B Ay:#7D6C46 Az:#6E75A4 Ba:#7B90D2 Bb:#336774 Bc:#7DB9DE Bd:#787D7B Be:#566C73 Bf:#563F2E Bg:#4A225D Bh:#574C57 Bi:#5E3D50 Bj:#005CAF Bk:#72636E Bl:#BA9132 Bm:#B68E55 Bn:#E8B647 Bo:#8D742A Bp:#D19826 Bq:#C18A26 Br:#C99833 Bs:#CA7853
+voxels
+- - - - - - - - - - - - M AjAaAaAkAzAjAaM - - - - - - - - - -   
+- - - - - - - - - - B B W AaW AkBbBaBcBaBdB - - - - - - - - -   
+- - - - - - - - B B ApAkAjW AfAfW BeN AzAkN - - - - - - - - -   
+- - - - - - B E C C ApM M E B H H B E M B H X M - - - - - - -   
+- - - - - M C A C C D AgB E D H H B A AqT B A I E B - - - - -   
+- - - - H C C C C E B T B C B E M B C B AgB C AhAhE B - - - -   
+- - - H A A C C C H B U B E D B D B E D U B C I E C E B - - -   
+- - B V A A A C C H B U D B D U T U B D U B Y I C C E E B - -   
+- - E A A A A C A E M D D U T W N T T B B BfF K I I C C H - -   
+- M O A A A A A A A H B D U W N N J T B D C K K I I I A A B -   
+- E O A A A A A A A O H D J N N N T U B A I K A A I K L A E -   
+B C A A A G A A A A F H U P J N ArP J AsL K AtK A A K K A A B   
+M A A A A A A L L O A H AsAfJ J J J AgAqA O K O F K C C A A M   
+H A A A V AbA A A A A B B P J P T J T ApB L O AlO A A I A A H   
+E A K A A A V L O L B H T J P P AgN N P K B L O K A A K A C H   
+E O A A A A V A O B X B BgBhBiAjN BjW AgH X B F O A A I A E E   
+A G A F F F A F Q B AsD P ArAfBkArW W AfD P B K AlA A C C C E   
+A F O F F Q F F Q B J B M AaP P J N AaB D J B Y C L A I A A E   
+A F F F F F Q F S AiJ D D B J N N N D D D J AuL L L O K I A A   
+R G F BlF V A F S AiP D D D J N N P D D D P L L L C K A E A R   
+R A Q F F F A A L AhJ D D D M M M D D D T J X C C C C C A C R   
+AcE AdAuAuBmAmF L L AqJ B H AbG AbH D U J X I AhAhI Y I C C Ac  
+- AcAmAmQ AmAnAnAdS C M E G G G G G H M E AlC C X I AeI I Ac-   
+- - R AnQ Q AnBnAvAdS E A G G S G G A E L C C I AeAeC AlAi- -   
+- - - A AdQ Q AvAvS V E G S Z Z Z S G E BoY Y C I AiAeAoR - -   
+- - - - A Q Q S BpBqA A G S AwAxAwS G A A AtY AeX AoAiR - - -   
+- - - - - R K AdBrAdQ G V S Z AwBsS AbG AyAoY AtAyA R - - - -   
+- - - - - - R A X O Q G V V Z Z Z V V G AyAeAoA R - - - - - -   
+- - - - - - - - AcR R A AbG AxG AxG AbA A R Ac- - - - - - - -   

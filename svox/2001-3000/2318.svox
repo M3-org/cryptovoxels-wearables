@@ -1,0 +1,22 @@
+model
+size = 1 13 18, scale = 0.05, origin = -y
+material 
+  colors = A:#222
+voxels
+- - A A A A - - - - - - - 
+- A A A A A A - - - - - - 
+A A A A - A A - - - - - - 
+A A A - A A - - - - - - - 
+A A A - A - - - - - - - - 
+A A A - - - - - - - - - - 
+A A A A A A A - - - - - - 
+A A A - A A A A - - - - - 
+- A A A A A A A A A - - - 
+A A A A A A A A A A A A - 
+A A A A A A A A A A A A A 
+- A A A A A A A - A A A - 
+A A A A A A A A A A A - - 
+A A A A A A A A A A A A - 
+- A A A A A A A - A A A A 
+A A A A A A A A A A A A - 
+A A A A A A 

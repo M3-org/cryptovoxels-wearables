@@ -1,0 +1,18 @@
+model
+size = 8 7 13, scale = 0.05, origin = -y
+material 
+  colors = A:#4A225D
+voxels
+--AAA--- --AAA--- -------- -------- -------- -------- -------- 
+-AAAAA-- -AAAAA-- -------- -------- -------- -------- -------- 
+AAAAAAA- AAAAAAA- -------- -------- -------- -------- -------- 
+AAAAAAA- AAAAAAA- -------- -------- -------- -------- -------- 
+AAAAAAA- AAAAAAA- -------- -------- -------- -------- -------- 
+-AAAAAA- -AAAAAA- -------- -------- -------- -------- -------- 
+--AAAAA- --AAAAA- -------- -------- -------- -------- -------- 
+--AAAAA- --AAAAA- -------- -------- -------- -------- -------- 
+--AAAAAA --AAAAAA ---AAAAA ---AAAAA ---AAAAA ---AAAAA ---AAAAA 
+---AAAAA ---AAAAA ---AAAAA ---AAAAA ---AAAAA ---AAAAA ---AAAAA 
+---AAAAA ---AAAAA ---AAAAA ---AAAAA ---AAAAA ---AAAAA ---AAAAA 
+---AAAAA ---AAAAA ---AAAAA ---AAAAA ---AAAAA ---AAAAA ---AAAAA 
+---AAAAA ---AAAAA ---AAAAA ---AAAAA ---AAAAA ---AAAAA ---AAAAA 

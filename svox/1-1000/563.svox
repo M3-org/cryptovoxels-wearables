@@ -1,0 +1,35 @@
+model
+size = 6 26 30, scale = 0.05, origin = -y
+material 
+  colors = A:#000 B:#141414
+voxels
+------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ AAAAAA AAAAAA AAAAAA AAAAAA AAAAAA AAAAAA AAAAAA ------ ------ 
+------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ A----A A----A A----A A----A A----A A----A A----A AAAAAA ------ 
+------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ A----A A----A A----A A----A A----A A----A AAA--A AAA--A AAAAAA 
+------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ A----A A----A A----A A----A A----A A----A AAA--A AAA--A AAAAAA 
+------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ AAAAAA A----A A----A A----A A----A A----A AAA--A AAA--A AAAAAA 
+------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ -AAAAA A----A A----A A----A A----A AAA--A AAA--A AAAAAA 
+------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ -AAAAA A----A A----A A----A A----A AAA--A AAA--A AAAAAA 
+-BBBB- AAAAAA AAAAAA AAAAAA AAAAAA AAAAAA AAAAAA AAAAAA AAAAAA AAAAAA AAAAAA AAAAAA AAAAAA AAAAAA AAAAAA AAAAAA AAAAAA AAAAAA A----A A----A A----A A----A A----A AAA--A AAA--A AAAAAA 
+A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A AAA--A AAA--A AAAAAA 
+B----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A AAA--A AAA--A AAAAAA 
+B----A A----A A----A A----A A----A B----A B----A B----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A ABBBBA 
+B----A A----A A----A A----A B----A A----A A----A A----A B----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A BB--BB 
+B----A A----A A----A B----A A----A A----A A----A A----A A----A B----A A----A B----A A----A B----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A B----A B----B 
+B----A A----A A----A B----A A----A A----A B----A A----A A----A B----A A----A A----A B----A A----A B----A A----A A----A A----A A----A A----A B----A A----A A----A A----A B----B A----- 
+B----A A----A A----A B----A A----A B----A A----A B----A A----A B----A A----A B----A A----A A----A B----A A----A A----A A----A A----A B----A A----A B----A A----A A----B B----- A----- 
+B----A A----A A----A B----A A----A A----A B----A A----A A----A B----A A----A A----A A----A A----A A----A A----A A----A A----A B----A A----A B----A A----A A----A A----B B----- A----- 
+B----A A----A A----A B----A A----A A----A A----A A----A A----A B----A A----A B----A B----A B----A B----A A----A A----A B----A A----A B----A A----A A----A A----A A----A B----B A----- 
+B----A A----A A----A A----A B----A A----A A----A A----A B----A A----A A----A A----A A----A A----A A----A A----A B----A A----A B----A A----A A----A A----A A----A A----A B----A B----B 
+B----A A----A A----A A----A A----A B----A A----A B----A A----A A----A A----A A----A A----A A----A A----A B----A A----A B----A A----A A----A A----A A----A A----A A----A A----A BB--BB 
+B----A A----A A----A A----A A----A A----A B----A A----A B----A A----A B----A A----A B----A A----A B----A A----A B----A A----A A----A A----A A----A A----A A----A A----A A----A ABBBBA 
+B----A A----A A----A A----A A----A A----A A----A B----A A----A B----A A----A B----A A----A B----A A----A B----A A----A A----A A----A A----A A----A A----A A----A AAA--A AAA--A AAAAAA 
+A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A A----A AAA--A AAA--A AAAAAA 
+-BBBB- AAAAAA AAAAAA AAAAAA AAAAAA AAAAAA AAAAAA AAAAAA AAAAAA AAAAAA AAAAAA AAAAAA AAAAAA AAAAAA AAAAAA AAAAAA AAAAAA AAAAAA A----A A----A A----A A----A A----A AAA--A AAA--A AAAAAA 
+------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ -AAAAA A----A A----A A----A A----A AAA--A AAA--A AAAAAA 
+------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ -AAAAA A----A A----A A----A A----A AAA--A AAA--A AAAAAA 
+------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ AAAAAA A----A A----A A----A A----A A----A AAA--A AAA--A AAAAAA 
+------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ A----A A----A A----A A----A A----A A----A AAA--A AAA--A AAAAAA 
+------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ A----A A----A A----A A----A A----A A----A AAA--A AAA--A AAAAAA 
+------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ A----A A----A A----A A----A A----A A----A A----A AAAAAA ------ 
+------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ AAAAAA AAAAAA AAAAAA AAAAAA AAAAAA AAAAAA AAAAAA ------ ------ 

@@ -1,0 +1,21 @@
+model
+size = 6 10 16, scale = 0.05, origin = -y
+material 
+  colors = A:#222 B:#EEE C:#DDD D:#BBB E:#555 F:#777
+voxels
+-BBBB- -CCCC- --BB-- ------ ------ ------ ------ ------ ------ ------ 
+BBDBDB -CCCC- -BBBB- ------ ------ ------ ------ ------ ------ ------ 
+BDBDBB CCCCCC BBBBBB ------ ------ ------ ------ ------ ------ ------ 
+BBDBDB AAAAAA AAAAAA ------ ------ ------ ------ ------ ------ ------ 
+BDBDBB AAAAAA ACCCBA ------ ------ ------ ------ ------ ------ ------ 
+BBDBDB AAAAAA AAAAAA ------ ------ ------ ------ ------ ------ ------ 
+BDBDBB AAAAAF ACCCBA -BCCB- ------ ------ ------ ------ ------ ------ 
+BBDBDB AAAAAA A----A AAAAAA ------ ------ ------ ------ ------ ------ 
+BDBDBB AAAABA A----A AAAAAA -CCCB- ------ ------ ------ ------ ------ 
+BBDBDB AAAAAF A----A AAAAAA AAAAAA -AAAA- -CCBB- -AAAA- -AAAA- --AA-- 
+BDBDBB AA--AA A----A AA--AA AA--AA EA---E AA---A E----E A----A ------ 
+BBDBDB A----A A----A A----A A----A A----A A----A A----A A----A ------ 
+BDBDBB A---AA A----A A----A A----A A----A B----B B----B A----A ------ 
+BBDBDB AA--AA A----A AA--AA AA--A- AA--A- BA--B- B---B- A---A- ------ 
+BCBCB- AAAAA- A---A- AAAAA- AAAAA- -AAAA- -AAAA- -A--A- -A--A- -A--A- 
+-BBB-- -AAA-- -AAA-- -AAA-- -AAA-- -AAA-- -AAA-- -AAA-- -AAA-- -AAA-- 

@@ -1,0 +1,28 @@
+model
+size = 25 8 23, scale = 0.05, origin = -y
+material 
+  colors = A:#FFA5A5 B:#FFD240 C:#8E695F D:#FFF E:#FF7F7E F:#FEDFC3 G:#3A5D95
+voxels
+------------------------- ------------------------- ------------------------- ------------------------- ------------------------- ------------------------- ---------------------B--- --------------------BB--- 
+------------------------- ---------AAAAAA---------- ---------AAAAAA---------- ------------------------- ------------------------- --------------------B---- --------------------BB--- -------------------BBB--- 
+------------------------- ---------AAAAAA---------- ---------AA---A---B------ ------------------BB----- -------------------BB---- -------------------BBB--- -------------------BBB--- ------------------BBBB--- 
+----AAAAAAAAAAABBBBBBBB-- ----AAAAAAAAAAABBBBBBBB-- ----AAAAAAAAAAABBBABBBB-- ----AAAAAAAAAAABBBBBBBB-- -------------------BBBB-- -------------------BBBB-- -------------------BBB--- ------------------BBBB--- 
+---AAAAAAAAAAAAAAAABBBBB- ---AAAAAAAAAAAAAAAABBBBB- ---AAAAAAAAAAAAAAAABBBBB- ---AAAAAAAAAAAAAAAABBBBB- ---AAAAAAAAAAAAAAA-BBBB-- -------------------BBBB-- ------------------BBBBB-- ------------------BBBBB-- 
+--AAAAAAAAAAAAAAAAABBBBB- --AACCCAAAAAAAAAAAABBBBB- --AACCCAAAAAAAAAAAABBBBBB --AAAAAAAAAAAAAAAAABBBBBB --AAAAAAAAAAAAAAAA-BBBBB- -------------------BBBB-- ------------------BBBBB-- ------------------BBBBB-- 
+-AAAAAAAAAAAAAAAAAABBBBB- -AAACCCCCAAAAAAAAAABBBBB- -AAACCCCCAAAAAAAAAABBBBBB -AAAAAAAAAAAAAADAAABBBBBB -AAAAAAAAAAAAAABBA-BBBBB- ---------------BB--BBBB-- ---------------BB-BBBBB-- ------------------BBBBB-- 
+-AAAAAAAAAAAAAAAAAABBBBB- -AACCCCCCAAAAAAAAAABBBBB- -AACCCCCCAAAAAAAAAABBBBBB -AAAAAAAAAAADDDDAAABBBBBB -AAAAAAAAAAADDDDBA-BBBBBB -----------FGAABB--BBBBB- ---------------BB-BBBBBB- ------------------BBBBBB- 
+AAAAAAAAAAAAAAAAAAABBBBB- AACCCCCCCCAAAAAAAAABBBBB- AACCCCCCCCAAAAAAAAABBBBBB AAAAAAAAAAAADDDDAAABBBBBB AAAAAAAAAAAADDADBA-BBBBBB -----------FDAABB--BBBBBB ---------------BB-BBBBBBB ------------------BBBBBBB 
+AAAAAAAAAAAAAAAAAAABBBBB- ACCCCCCCCCAAAAAAAAABBBBB- ACCCCCCCCCAAAAAAAAABBBBBB AAAAAAAAAAAAAAADAAABBBBBB AAAAAAAAAAAAAAABBA-BBBBBB -----------FDAABB--BBBBBB ---------------BB-BBBBBBB ------------------BBBBBBB 
+AAAAAAAAAAAAAAAAAAABBBBB- ACCCCCCCCCAAAAAAAAABBBBB- ACCCCCCCCCAAAAAAAAABBBBBB AAAAAAAAAAAAAAAAAAABBBBBB AAAEAAAAAAAAAAABBA-BBBBBB ---E---A-------BB--BBBBBB ---------------BB-BBBBBBB ------------------BBBBBBB 
+AAAAAAAAAAAAAAAAAAABBBBB- ACCCCCCCCCAAAAAAAAABBBBB- ACCCCCCCCCAAAAAAAAABBBBB- AAAAAAAACAAAAAAAAAABBBBBB AAEEEAAAAAAAAAAAAA-BBBBBB --EEE--AAAA--------BBBBBB -------AA---------BBBBBBB ------------------BBBBBBB 
+AAAAAAAAAAAAAAAAAAABBBBB- ACCCCCCCCCAAAAAAAAABBBBB- ACCCCCCCCCAAAAAAAAABBBBB- AAAAAAAACAAAAAAAAAABBBBBB AAEEEAAAAAAAAAAAAA-BBBBBB --EEE--AAAA--------BBBBBB -------AA---------BBBBBBB ------------------BBBBBB- 
+AAAAAAAAAAAAAAAAAAABBBBB- ACCCCCCCCCAAAAAAAAABBBBB- ACCCCCCCCCAAAAAAAAABBBBB- AAAAAAAAAAAAAAAAAAABBBBBB AAAEAAAAAAAAAAABBABBBBBBB ---E---A-------BB-BBBBBBB ---------------BB-BBBBBBB ------------------BBBBBB- 
+AAAAAAAAAAAAAAAAAAABBBBB- ACCCCCCCCCAAAAAAAAABBBBB- ACCCCCCCCCAAAAAAAAABBBBB- AAAAAAAAAAAAAAADAAABBBBBB AAAAAAAAAAAAAAAABABBBBBBB -----------FGAABB-BBBBBBB ---------------BB-BBBBBB- ------------------BBBBB-- 
+AAAAAAAAAAAAAAAAAAABBBBB- AACCCCCCCCAAAAAAAAABBBBB- AACCCCCCCCAAAAAAAAABBBBB- AAAAAAAAAAAADDDDAAABBBBBB AAAAAAAAAAAADDDDBABBBBBBB -----------FDAABB-BBBBBBB ---------------BB-BBBBBB- ------------------BBBBB-- 
+-AAAAAAAAAAAAAAAAAABBBBB- -AACCCCCCAAAAAAAAAABBBBB- -AACCCCCCAAAAAAAAAABBBBB- -AAAAAAAAAAADDDDAAABBBBBB -AAAAAAAAAAADDADBABBBBBBB -----------FDAABB-BBBBBB- ---------------BB--BBBB-- -------------------BBB--- 
+-AAAAAAAAAAAAAAAAAABBBBB- -AAACCCCCAAAAAAAAAABBBBB- -AAACCCCCAAAAAAAAAABBBBB- -AAAAAAAAAAAAAADAAABBBBBB -AAAAAAAAAAAAAABBABBBBBB- ---------------BB-BBBBBB- ---------------BB--BBBB-- --------------------BB--- 
+--AAAAAAAAAAAAAAAAABBBBB- --AACCCAAAAAAAAAAAABBBBB- --AACCCAAAAAAAAAAAABBBBB- --AAAAAAAAAAAAAAAAABBBBB- --AAAAAAAAAAAAAAAABBBBBB- -------------------BBBB-- --------------------BB--- ------------------------- 
+---AAAAAAAAAAAAAAAABBBBB- ---AAAAAAAAAAAAAAAABBBBB- ---AAAAAAAAAAAAAAAABBBBB- ---AAAAAAAAAAAAAAAABBBB-- ---AAAAAAAAAAAAAAABBBBB-- --------------------BB--- ------------------------- ------------------------- 
+----AAAAAAAAAAABBBBBBBB-- ----AAAAAAAAAAABBBBBBBB-- ----AAAAAAAAAAABBBBBBB--- ----AAAAAAAAAAABBBBBBB--- ------------------------- ------------------------- ------------------------- ------------------------- 
+------------------------- ---------AAAAAA---------- ---------AA---A---------- ------------------------- ------------------------- ------------------------- ------------------------- ------------------------- 
+------------------------- ---------AAAAAA---------- ---------AAAAAA---------- ------------------------- ------------------------- ------------------------- ------------------------- ------------------------- 

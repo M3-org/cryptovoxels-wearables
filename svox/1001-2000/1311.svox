@@ -1,0 +1,11 @@
+model
+size = 14 12 6, scale = 0.05, origin = -y
+material 
+  colors = A:#111 B:#222 C:#444 D:#E00 E:#EEE F:#007 G:#AAA
+voxels
+-------------- -AA--AAAA--AA- AAA-AADDAA-AAA AAA-ADDDDA-AAA -AA--ADDA--AA- ------AA------ -------------- -------------- -------------- -------------- -------------- -------------- 
+-AA--------AA- AAA--AAAA--ACA AAA-ACCCAA-ACA AAA-ACCCBA-ACA AAA-ACCCBA-ACA -AA--AAAA--AA- ------BB------ -------------- -------------- -------------- -------------- -------------- 
+AAA--------AAA ACA--AAAA--ACA DCCDABCCAADCCD DCCDCCCCBBDCCD ACA-ACCCCA-ACA AAA--AAAA--AAA -----BAAB----- ---BBEEEEBB--- --BEEEEEEEEB-- --BEEEEEEEEB-- --BEEEEEEEEB-- ---BBBBBBBB--- 
+AAA--------AAA ACA--AAAA--ACA DCCDAAAAAADCCD DCCGBAAAAACCCD ACCDFFAAAFDCCA AAA-BAAAAB-AAA ----BAAAAB---- ---DAEEEEAD--- --DEEEEEEEED-- --DEEEEEEEED-- --DEEEEEEEED-- ---DDDDDDDD--- 
+-AA--------AA- ACA--AAAA--ACA ACCDA----ADCCA ACCDA----ADCCA ACCDAA--AFDCCA -AA-BAAAAB-AA- ----BABBAB---- ---DA----AD--- --D--------D-- --D--------D-- --D--------D-- ---DDDDDDDD--- 
+-------------- -AA--BBBB--AA- AAA-B----B-AAA AAA-B----B-AAA -AA-B----B-AA- ----BB--BB---- ----BB--BB---- ---BB----BB--- --B--------B-- --B--------B-- --B--------B-- ---BBBBBBBB--- 

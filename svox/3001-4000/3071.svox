@@ -1,0 +1,14 @@
+model
+size = 9 27 9, scale = 0.05, origin = -y
+material 
+  colors = A:#777 B:#000 C:#FFF D:#222 E:#555 F:#FED901 G:#FFBA01 H:#FFCF00 I:#FFDF01 J:#FEC300 K:#FFB302 L:#444 M:#070 N:#888 O:#E00
+voxels
+--------- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- ----E---- ---DDD--- --EAAAL-- ---EAE--- ----E---- --------- --------- 
+--------- --------- --------- --------- ----D---- ----G---- ---GGG--- ---JJJ--- ---JJJ--- ---HHH--- ---HHH--- ---HDH--- ---FDF--- ---FMF--- ---FFF--- ---FFF--- ---III--- ---III--- ---DDD--- ---AEA--- --EAAAE-- -DDAAADD- -AAAAAAA- -EAAAAAE- --AEAAE-- ---LAA--- --------- 
+--------- ----K---- ---KKK--- ---GGG--- --DDBDD-- --GGCGG-- --GCCCG-- --JCCCJ-- --JCCCJ-- --HCCCH-- --HCBCH-- --HCOCH-- --FCBCF-- --FCMCF-- --FCCCF-- --FCCCF-- --ICCCI-- --ICCCI-- --DBABD-- --AAAAA-- -EAAAAAA- -DAAAAAD- AAAAAAAAE -EAAAAAA- -EAAAAAL- --AAALE-- ----E---- 
+----K---- ---KBK--- --KBBBK-- --GBBBG-- --DBBBD-- --GCCBG-- -GCCBBCG- -JCCCCCJ- -JCCCCCJ- -HCCCCCH- -HBBBBCH- -HBBBBCH- -FBBBBCF- -FBBBBCF- -FBBBBCF- -FBBBBCF- -IBBBBCI- -IBBBBCI- -DBAAABD- -EAAAAAE- -AAAAAAA- DAAAAAAAD AAAAAAAAA EAAAAAAAE -EAAAAAE- -LAAAAEE- ---EAE--- 
+---KKK--- --KBBBK-- --KBBBK-- --GBBBG-- -DBBBBBD- -GCCCBBG- -GCCBBCG- -JBBBBCJ- -JBBBBCJ- -HBBBBCH- -HBBBBCH- -HBBBBCH- -FBBBBCF- -FBBBBCF- -FBBBBCF- -FBBBBCF- -IBBBBCI- -IBBBBCI- -DAAAAAD- -EAAAAAA- EAAAAAAAA DAAAAAAAD EAAAAAAAE AAAAAAAAE AAAAAAAAE -AAAAAAL- --EEEAE-- 
+----K---- ---KBK--- --KBBBK-- --GBBBG-- --DBBBD-- --GBBBG-- -GCCBBCG- -JBBBBCJ- -JBBBBCJ- -HBBBBCH- -HBBBBCH- -HBBBBCH- -FBBBBCF- -FBBBBCF- -FBBBBCF- -FBBBBCF- -IBBBBCI- -IBBBBCI- -DBAAABD- -EAAAAAE- -AAAAAAL- DAAAAAAAD EAAAAAAAE EAAAAAAAL -AAAAAAA- -EAAAAAE- ---EAE--- 
+--------- ----K---- ---KKK--- ---GGG--- --DDBDD-- --GGCGG-- --GCBBG-- --JBBBJ-- --JBBBJ-- --HBBBH-- --HBBBH-- --HBBBH-- --FBBBF-- --FBBBF-- --FBBBF-- --FBBBF-- --IBBBI-- --IBBBI-- --DBABD-- --EAAAL-- -AAAAAAA- -DAAAAAD- AAAAAAAAA -EAAAAAA- -LAAAAAA- --EAAAA-- ----L---- 
+--------- --------- --------- --------- ----D---- ----G---- ---GGG--- ---JJJ--- ---JJJ--- ---HHH--- ---CCC--- ---CHC--- ---FFC--- ---FFC--- ---CCC--- ---FFF--- ---III--- ---III--- ---DDD--- ---LAA--- --EAALE-- -DDAAADD- -AAAAAAA- -AEAAAAL- --NLAAL-- ---AEE--- --------- 
+--------- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- ----E---- ---DDD--- --EALAA-- ---LAL--- ----A---- --------- --------- 

@@ -1,0 +1,13 @@
+model
+size = 4 31 8, scale = 0.05, origin = -y
+material 
+  colors = A:#BBB B:#00B C:#00F D:#D00 E:#00E F:#00D G:#F93 H:#00A
+voxels
+-F-- ---- ---- ---- ---- --E- --E- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- 
+FAF- ---- ---- ---- ---- --E- --E- -BBD -BB- -BBD -HB- DDDD ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- 
+FAAB -CCB -CCB -CCB -CCB -CAB -CAB CAAB CAAB CAAB CHAB DAAD -AA- -AA- -AA- -AAG -AAG -AAG -AA- -AA- -AA- -AA- -AA- -AA- -A-- -AA- -A-- -AA- ---- -AA- ---- 
+FAAB EEAB EAAB CAAB CAAB CAAB CAAB CAAB CAAB CAAB CAAB DAAD -AA- -AA- -AAG -AA- -AA- -AA- -AAG -AA- -AA- -AA- -AA- -AA- -AA- -AA- -AA- -AA- -AA- -AA- -AA- 
+FAAB EAAB EAAB CAAB CAAB CAAB CAAB CAAB CAAB CAAB CAAB DAAD -AA- -AA- -AAG -AA- -AA- -AA- -AAG -AA- -AA- -AA- -AA- -AA- -AA- -AA- -AA- -AA- -AA- -AA- -AA- 
+FAAB -CCB -CCB -CCB -CCB -CAB -CAB CAAB CAAB CAAB CAAB DAAD -AA- -AA- -AA- -AAG -AA- -AAG -AA- -AA- -AA- -AA- -AA- -AA- -A-- -AA- -A-- -AA- ---- -AA- ---- 
+FAF- ---- ---- ---- ---- --E- --E- -BBD -BB- -BBD -BB- DDDD ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- 
+-F-- ---- ---- ---- ---- --E- --E- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- 

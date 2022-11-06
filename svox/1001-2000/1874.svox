@@ -1,0 +1,19 @@
+model
+size = 3 31 14, scale = 0.05, origin = -y
+material 
+  colors = A:#630 B:#222 C:#930 D:#C96 E:#777
+voxels
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- BBB BBB --- --- 
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- AAA AAA BBB BBB BBB BBB --- 
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- AAA AAA AAA AAA AAA AAA AAA BBB BBB BBB BAB --- 
+AAA CCC DCD CDC DCD CDC DCD CDC DCD CDC DCD CDC CCC AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA BBB BBB BBB BAB --- 
+AAA CAC CAC DAD CAC DAD CAC DAD CAC DAD CAC DAD CAC AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA BBB BBB BBB BAB --- 
+AAA CCC DCD CDC DCD CDC DCD CDC DCD CDC DCD CDC CCC AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA BBB BBB BBB BBB --- 
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- -B- BBB BBB -B- --- 
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- -B- -B- -B- -B- --- 
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- -B- -B- -B- -B- --- 
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- -B- -B- -B- -B- -B- --- 
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- -B- -B- -B- -B- -B- -B- 
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- -B- -B- -B- -B- -B- -B- -B- -B- 
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- -B- -B- -B- -B- -B- -B- -B- -B- -B- 
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- -E- -E- -E- -E- -E- -E- -E- -E- -E- 

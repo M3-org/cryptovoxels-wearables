@@ -1,0 +1,14 @@
+model
+size = 9 27 9, scale = 0.05, origin = -y
+material 
+  colors = A:#000 B:#777 C:#040404 D:#222 E:#555 F:#010101 G:#444 H:#070 I:#888 J:#E00
+voxels
+--------- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- ----E---- ---DDD--- --EBBBG-- ---EBE--- ----E---- --------- --------- 
+--------- --------- --------- --------- ----D---- ----C---- ---CCA--- ---CFF--- ---FCC--- ---AAC--- ---AAA--- ---ADA--- ---FDC--- ---AHC--- ---AAC--- ---CAA--- ---CCF--- ---AAA--- ---DDD--- ---BEB--- --EBBBE-- -DDBBBDD- -BBBBBBB- -EBBBBBE- --BEBBE-- ---GBB--- --------- 
+--------- ----C---- ---CCC--- ---CCAC-- --DDADD-- --AAAAA-- --FAAAA-- --CAAAA-- --CAAAF-- --CAAAC-- --AAAAC-- --CAJAC-- --CAAAC-- --CAHAC-- --CAAAA-- --CAAAF-- --CAAAF-- --AAAAA-- --DABAD-- --BBBBB-- -EBBBBBB- -DBBBBBD- BBBBBBBBE -EBBBBBB- -EBBBBBG- --BBBGE-- ----E---- 
+----F---- ---AAC--- --CAAAC-- --AAAAA-- --DAAAD-- --AAAAA-- -CAAAAAA- -CAAAAAA- -CAAAAAF- -CAAAAAF- -FAAAAAC- -CAAAAAC- -CAAAAAC- -CAAAAAC- -CAAAAAC- -FAAAAAA- -AAAAAAF- -AAAAAAA- -DABBBAD- -EBBBBBE- -BBBBBBB- DBBBBBBBD BBBBBBBBB EBBBBBBBE -EBBBBBE- -GBBBBEE- ---EBE--- 
+---FAF--- --AAAAF-- --AAAAA-- --AAAAA-- -DAAAAAD- -AAAAAAA- -CAAAAAA- -CAAAAAA- -CAAAAAA- -AAAAAAA- -AAAAAAA- -AAAAAAA- -FAAAAAA- -CAAAAAC- -CAAAAAA- -CAAAAAA- -FAAAAAA- -AAAAAAA- -DBBBBBD- -EBBBBBB- EBBBBBBBB DBBBBBBBD EBBBBBBBE BBBBBBBBE BBBBBBBBE -BBBBBBG- --EEEBE-- 
+---AA---- ---FAA--- --AAAAA-- --AAAAA-- --DAAAD-- --AAAAA-- -CAAAAAA- -CAAAAAA- -CAAAAAA- -AAAAAAA- -CAAAAAF- -CAAAAAC- -CAAAAAC- -FAAAAAC- -CAAAAAF- -CAAAAAF- -FAAAAAF- -AAAAAAA- -DABBBAD- -EBBBBBE- -BBBBBBG- DBBBBBBBD EBBBBBBBE EBBBBBBBG -BBBBBBB- -EBBBBBE- ---EBE--- 
+--------- ----F---- ---FAA--- --AAAAA-- --DDADD-- --AAAAA-- --AAAAA-- --AAAAC-- --CAAAC-- --CAAAF-- --CAAAF-- --CAAAC-- --CAAAC-- --CAAAC-- --AAAAF-- --AAAAF-- --CAAAA-- --AAAAA-- --DABAD-- --EBBBG-- -BBBBBBB- -DBBBBBD- BBBBBBBBB -EBBBBBB- -GBBBBBB- --EBBBB-- ----G---- 
+--------- --------- --------- --------- ----D---- ----A---- ---ACC--- ---AAC--- ---AAA--- ---CCF--- ---CAA--- ---CAA--- ---CAA--- ---CCC--- ---FCC--- ---CAF--- ---CAA--- ---AAA--- ---DDD--- ---GBB--- --EBBGE-- -DDBBBDD- -BBBBBBB- -BEBBBBG- --IGBBG-- ---BEE--- --------- 
+--------- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- ----E---- ---DDD--- --EBGBB-- ---GBG--- ----B---- --------- --------- 

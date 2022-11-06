@@ -1,0 +1,35 @@
+model
+size = 1 31 31, scale = 0.05, origin = -y
+material 
+  colors = A:#FFF B:#111 C:#F93 D:#0C0 E:#EEE
+voxels
+- - - - - - - - - B B - B B B B B B B - B B B B B B B B - - - 
+- - - - - - - - B A A B A A A A B A A B A A A A A A A A B B - 
+- - - - - - - B A A A A A A A A A A A A A A A D D D D A A A B 
+- - - - - - - B A A A A A A A B A B B B B B A D E E D A A A B 
+- - - - - - - B A A A B B B B B A B B A A A A D D D D A A A B 
+- - - - - - - - B A A A A A A B A A B B A A A A A A A A A B - 
+- - - - - - - - - B A A A A A A A A A B B A A D D D D A B - - 
+- - - - - - - - B A A B A A A B A B B B B B A D E E D A A B - 
+- - - - - - - B A A A B A B A B A A A A A A A D D D D A A B - 
+- - - - - - B A A A A B B B B B A B B B B B A A A A A A A B - 
+- - - - - B A A A A A A A A A A A A A A A A A D D D D A A B - 
+- - - - - B A A A A A B B A B B A A A A A A A D E E D A B - - 
+- - - - - B A A A A A A A B B A A A A A A A A D D D D A A B - 
+- - - - - - B A A A A A A B A A A C C A C C A A A A A A A A B 
+- - - - - - - B A A A B B B B B A C A A A C A D D D A D A A B 
+- - - - - - - - B A A A A A A A A C A A A C A D A D A D A A B 
+- - - - - - - B A A A B B A B B A C A A A C A D A D D D A A B 
+- - - - - - B A A A A B A A A B A C C C C C A A A A A A A A B 
+- - - - - - B A A A A B A A A B A A A A A A A A A A B A A B - 
+- - - - - - - B A A A B B B B B A A A A A C A B B B B A A A B 
+- - - - - - - - B A A A A A A A A A A A A C A A A A B A A A B 
+- - - - - - - B A A A B B B B B A C C C C C A A A A A A A B B 
+- - - - - B B B A A A B E E E B A A A A A C A B B B B A B - - 
+- - - - B A A B A A A B E E E B A A A A A C A B E E B A A B - 
+- - - B A A A A A A A B B B B B A C C C A A A B B B B A A A B 
+- - - B A A A A A A A A A A A A A C E C C C A A A A A A A A B 
+- - B B A A A A A A A A A B B B A C E C E C A B B A B A A A B 
+- B A A B A A B A A A A A B E B A C E C E C A B A A B A A A B 
+- B A A B B B - B A A B B B B B A C C C C C A B B B B A A B - 
+B A B B - - - - - B A A A A A A B A A A A A B A A A A A B 

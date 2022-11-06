@@ -1,0 +1,14 @@
+model
+size = 22 9 9, scale = 0.05, origin = -y
+material 
+  colors = A:#FC3 B:#000 C:#0FF
+voxels
+---------------------- ---------------------- -B--------B----------- -B--------B----------- -B--------B----------- -B--------B----------- -B--------B----------- ---------------------- ---------------------- 
+---------------------- -B--------B----------- -B--------B----------- AAAAAAAAAAB----------- AAAAAAAAAAB----------- AAAAAAAAAAB----------- -B--------B----------- -B--------B----------- ---------------------- 
+-B--------B----------- -B--------B----------- AAAAAAAAAAB--------B-- AAAAAAAAAA---------B-- -CCAAAAAAAAAAAAAAAAB-- AAAAAAAAAA---------B-- AAAAAAAAAAB--------B-- -B--------B----------- -B--------B----------- 
+-B--------B----------- AAAAAAAAAAB----------- AAAAAAAAAA---------B-- -CCAAAAAAAAAAAAAAAAAAA -CCAAAAAAAAAAAAAAAAAAA -CCAAAAAAAAAAAAAAAAAAA AAAAAAAAAA---------B-- AAAAAAAAAAB----------- -B--------B----------- 
+-B--------B----------- AAAAAAAAAAB----------- -CCAAAAAAAAAAAAAAAAB-- -CCAAAAAAAAAAAAAAAAAAA -CCAAAAAAAAAAAAAACCCC- -CCAAAAAAAAAAAAAAAAAAA -CCAAAAAAAAAAAAAAAAB-- AAAAAAAAAAB----------- -B--------B----------- 
+-B--------B----------- AAAAAAAAAAB----------- AAAAAAAAAA---------B-- -CCAAAAAAAAAAAAAAAAAAA -CCAAAAAAAAAAAAAAAAAAA -CCAAAAAAAAAAAAAAAAAAA AAAAAAAAAA---------B-- AAAAAAAAAAB----------- -B--------B----------- 
+-B--------B----------- -B--------B----------- AAAAAAAAAAB--------B-- AAAAAAAAAA---------B-- -CCAAAAAAAAAAAAAAAAB-- AAAAAAAAAA---------B-- AAAAAAAAAAB--------B-- -B--------B----------- -B--------B----------- 
+---------------------- -B--------B----------- -B--------B----------- AAAAAAAAAAB----------- AAAAAAAAAAB----------- AAAAAAAAAAB----------- -B--------B----------- -B--------B----------- ---------------------- 
+---------------------- ---------------------- -B--------B----------- -B--------B----------- -B--------B----------- -B--------B----------- -B--------B----------- ---------------------- ---------------------- 

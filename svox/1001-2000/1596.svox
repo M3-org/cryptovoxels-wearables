@@ -1,0 +1,21 @@
+model
+size = 16 13 16, scale = 0.05, origin = -y
+material 
+  colors = A:#CE9D6D B:#A27A55 C:#BBB D:#EEE
+voxels
+AAAAAAACCAAAAAAA AAAAAAACCAAAAAAA AAAAAAACCAAAAAAA AAAAAAACCAAAAAAA AAAAAAACCAAAAAAA AAAAAAACCAAAAAAA AAAAAAACCAAAAAAA AAAAAAACCAAAAAAA AAAAAAACCAAAAAAA AAAAAAACCAAAAAAA AAAAAAACCAAAAAAA AAAAAAACCAAAAAAA AAAAAAACCAAAAAAA 
+BAAAAAACCAAAAAAB A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A BAAAAAACCAAAAAAB 
+BAAAAAACCAAAAAAB A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A BAAAAAACCAAAAAAB 
+BAAAAAACCAAAAAAB A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A BAAAAAACCAAAAAAB 
+BAAAAAACCAAAAAAB A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A BAAAAAACCAAAAAAB 
+BAAAAAACCAAAAAAB A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A BAAAAAAAAAAAAAAB 
+BAAAAAACCAAAAAAB A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A BAAAAAAAAAAAAAAB 
+BBBBBBBCCBBBBBBB A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A BBBBBBBBBBBBBBBB 
+BBBBBBBCCBBBBBBB A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A BBBBBBBBBBBBBBBB 
+BAAAAAACCAAAAAAB A--------------A A--------------D A--------------D A--------------D A--------------D A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A BAAAAAAAAAAAAAAB 
+BAAAAAACCAAAAAAB A--------------A A--------------D A--------------C A--------------C A--------------D A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A BAAAAAAAAAAAAAAB 
+BAAAAAACCAAAAAAB A--------------A A--------------D A--------------C A--------------C A--------------D A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A BAAAAAACCAAAAAAB 
+BAAAAAACCAAAAAAB A--------------A A--------------D A--------------C A--------------D A--------------D A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A BAAAAAACCAAAAAAB 
+BAAAAAACCAAAAAAB A--------------A A--------------D A--------------C A--------------D A--------------D A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A BAAAAAACCAAAAAAB 
+BAAAAAACCAAAAAAB A--------------A A--------------D A--------------D A--------------D A--------------D A--------------A A--------------A A--------------A A--------------A A--------------A A--------------A BAAAAAACCAAAAAAB 
+AAAAAAACCAAAAAAA AAAAAAACCAAAAAAA AAAAAAACCAAAAAAA AAAAAAACCAAAAAAA AAAAAAACCAAAAAAA AAAAAAACCAAAAAAA AAAAAAACCAAAAAAA AAAAAAACCAAAAAAA AAAAAAACCAAAAAAA AAAAAAACCAAAAAAA AAAAAAACCAAAAAAA AAAAAAACCAAAAAAA AAAAAAACCAAAAAAA 

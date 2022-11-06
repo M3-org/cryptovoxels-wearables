@@ -1,0 +1,9 @@
+model
+size = 15 27 4, scale = 0.05, origin = -y
+material 
+  colors = A:#DDD B:#111
+voxels
+--------------- --------------- --------------- --------------- --------------- --------------- --------------- --------------- --------------- --------------- --------------- --------------- --------------- --------------- --------------- --------------- --------------- --------------- --------------- --------------- --------------- --------------- --------------- ----AAAAAAA---- ---AAAAAAAAA--- -AAAAAAAAAAAAA- AAAAAAAAAAAAAAA 
+-----AAAAA----- ---AAAAAAAAA--- -AAAAAAAAAAAAA- AAAAAAAAAAAAAAA AAAAAAAAAAAAAAA AAAAAAAAAAAAAAA AAAAAAAAAAAAAAA AAAAAAAAAAAAAAA AAAAAAAAAAAAAAA AAAAAAAAAAAAAAA AAAAAAAAAAAAAAA AAAAAAAAAAAAAAA AAAAAAAAAAAAAAA AAAAAAAAAAAAAAA AAAAAAAAAAAAAAA AAAAAAAAAAAAAAA AAAAAAAAAAAAAAA AAAAAAAAAAAAAAA AAAAAAAAAAAAAAA AAAAAAAAAAAAAAA AAAAAAAAAAAAAAA AAAAAAAAAAAAAAA --AAAAAAAAAAA-- ----ABBBBAA---- ---ABBBBBBBA--- -AAAAAAAAAAAAA- AAAAAAAAAAAAAAA 
+-----AAAAA----- ---AAAAAAAAA--- -AAAAAAAAAAAAA- AAAAAAAAAAAAAAA AAAAAAAAAAAAAAA AAAAAAAAAAAAAAA AAAAAAAAAAAAAAA AAAAAAAAAAAAAAA AAAAAAAAAAAAAAA AAAAAAAAAAAAAAA AAAAAAAAAAAAAAA AAAAAAAAAAAAAAA AAAAAAAAAAAAAAA AAAAAAAAAAAAAAA AAAAAAAAAAAAAAA AAAAAAAAAAAAAAA AAAAAAAAAAAAAAA AAAAAAAAAAAAAAA AAAAAAAAAAAAAAA AAAAAAAAAAAAAAA AAAAAAAAAAAAAAA AAAAAAAAAAAAAAA --AAAAAAAAAAA-- ----ABBBBAA---- ---ABBBBBBBA--- -AAAAAAAAAAAAA- AAAAAAAAAAAAAAA 
+--------------- --------------- --------------- --------------- --------------- --------------- --------------- --------------- --------------- --------------- --------------- --------------- --------------- --------------- --------------- --------------- --------------- --------------- --------------- --------------- --------------- --------------- --------------- ----AAAAAAA---- ---AAAAAAAAA--- -AAAAAAAAAAAAA- AAAAAAAAAAAAAAA 

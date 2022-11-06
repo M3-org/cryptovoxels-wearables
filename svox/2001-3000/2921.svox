@@ -1,0 +1,6 @@
+model
+size = 20 10 32, scale = 0.05, origin = -y
+material 
+  colors = A:#4A225D B:#000
+voxels
+10(12-2(2AB)2A)20(12-8A)10(9-2AB8A)169(9-11A)9-2211A

@@ -1,0 +1,27 @@
+model
+size = 21 11 22, scale = 0.05, origin = -y
+material 
+  colors = A:#222 B:#4AADE8 C:#6DA570 D:#D39367 E:#BF575F F:#CABE68
+voxels
+------AAAAAAAAA------ ------AAAAAAAAA------ --------AEEEA-------- --------------------- --------------------- --------------------- --------------------- --------------------- --------------------- --------------------- --------------------- 
+----AAAAAAAAAAAAA---- ----AAAAAAAAAAAAA---- -----AAAAAAAAAAA----- ------AADEEEDAA------ -------ADDADDA------- --------FFAAA-------- --------------------- --------------------- --------------------- --------------------- --------------------- 
+---AAA----A----AAA--- ---AAA----A----AAA--- ---AAA----A----AAA--- ----AAAAAAAAAAAAA---- -----AAAAAAAAAAA----- ------AAAAAAAAA------ -------AFFAAAA------- --------------------- --------------------- --------------------- --------------------- 
+--AA------A------AA-- --AA------A------AA-- --AA------A------AA-- ---A------A------A--- ---AAAAAAAAAAAAAAA--- ----AAAAAAAAAAAAA---- -----AAAAAAAAAAA----- ------AACCACCAA------ --------------------- --------------------- --------------------- 
+-AA-------A-------AA- -AA-------A-------AA- -AA-------A-------AA- --A-------A-------A-- --AAAAAAAAAAAAA--AA-- ---AAAAAAAAAAAAAAA--- ----AAAAAAAAAAAAA---- -----AAAAAAAAAAA----- -------ACBBBCA------- --------------------- --------------------- 
+-A-----------------A- -A-----------------A- -A--------A--------A- -A--------A--------A- --AAAAAAAAAAAAA--AA-- --AAAAAAAAAAAAAAAAA-- ---AAAAAAAAAAAAAAA--- ----AAAAAAAAAAAAA---- -----AAAAAAAAAAA----- --------ABBBA-------- --------------------- 
+AA-----------------AA AA-----------------AA AA--------A--------AA -A--------A--------A- -AAAAAAAAAAAAAA--AAA- --AAAAAAAAAAAAAAAAA-- --AAAAAAAAAAAAAAAAA-- ---AAAAAAAAAAAAAAA--- ----AAAAAAAAAAAAA---- ------AAAAAAAAA------ ---------AAA--------- 
+A-------------------A A-------------------A AA--------A--------AA AA--------A--------AA -AAAAAAAAAAAAAA--AAA- --AAAAAAAAAAAAAAAAA-- --AAAAAAAAAAAAAAAAA-- --AAAAAAAAAAAAAAAAA-- ----AAAAAAAAAAAAA---- -----AAAAAAAAAAA----- --------AAAAA-------- 
+AA-------AAA------AAA AA-------AAA------AAA AAA-------A-------AAA AA--------A--------AA -AAAAAAAAAAAAAA--AAA- -AAAAAAAAAAAAAAAAAAA- --AAAAAAAAAAAAAAAAA-- --AAAAAAAAAAAAAAAAA-- ---AAAAAAAAAAAAAAA--- -----AAAAAAAAAAA----- -------AAAAAAA------- 
+A-------AAAAA-----A-A A-------AAAAA-----A-A A-A------AAA------A-A A-------AAAAA-------A AAAAAAAAAAAAAAA--AAAA -AAAAAAAAAAAAAAAAAAA- -AAAAAAAAAAAAAAAAAAA- --AAAAAAAAAAAAAAAAA-- ---AAAAAAAAAAAAAAA--- ----AAAAAAAAAAAAA---- ------AAAAAAAAA------ 
+A------AAAAAAA------A A------AAAAAAA------A A-------AAAAA-------A A-------AAAAA-------A AAAAAAAAAAAAAAA--AAAA -AAAAAAAAAAAAAAAAAAA- -AAAAAAAAAAAAAAAAAAA- --AAAAAAAAAAAAAAAAA-- ---AAAAAAAAAAAAAAA--- ----AAAAAAAAAAAAA---- ------AAAAAAAAA------ 
+A------AAAAAAA------A A------AAAAAAA------A A-------AAAAA-------A A-------AAAAA-------A AAAAAAAAAAAAAAA--AAAA -AAAAAAAAAAAAAAAAAAA- -AAAAAAAAAAAAAAAAAAA- --AAAAAAAAAAAAAAAAA-- ---AAAAAAAAAAAAAAA--- ----AAAAAAAAAAAAA---- ------AAAAAAAAA------ 
+A-------AAAAA-----A-A A-------AAAAA-----A-A A-A------AAA------A-A A-------AAAAA-------A AAAAAAAAAAAAAAA--AAAA -AAAAAAAAAAAAAAAAAAA- -AAAAAAAAAAAAAAAAAAA- --AAAAAAAAAAAAAAAAA-- ---AAAAAAAAAAAAAAA--- ----AAAAAAAAAAAAA---- ------AAAAAAAAA------ 
+AA-------AAA------AAA AA-------AAA------AAA AAA-------A-------AAA AA--------A--------AA -AAAAAAAAAAAAAA--AAA- -AAAAAAAAAAAAAAAAAAA- --AAAAAAAAAAAAAAAAA-- --AAAAAAAAAAAAAAAAA-- ---AAAAAAAAAAAAAAA--- -----AAAAAAAAAAA----- -------AAAAAAA------- 
+A-------------------A A-------------------A AA--------A--------AA AA--------A--------AA -AAAAAAAAAAAAAA--AAA- --AAAAAAAAAAAAAAAAA-- --AAAAAAAAAAAAAAAAA-- --AAAAAAAAAAAAAAAAA-- ----AAAAAAAAAAAAA---- -----AAAAAAAAAAA----- --------AAAAA-------- 
+AA-----------------AA AA-----------------AA AA--------A--------AA -A--------A--------A- -AAAAAAAAAAAAAA--AAA- --AAAAAAAAAAAAAAAAA-- --AAAAAAAAAAAAAAAAA-- ---AAAAAAAAAAAAAAA--- ----AAAAAAAAAAAAA---- ------AAAAAAAAA------ ---------AAA--------- 
+-A-----------------A- -A-----------------A- -A--------A--------A- -A--------A--------A- --AAAAAAAAAAAAA--AA-- --AAAAAAAAAAAAAAAAA-- ---AAAAAAAAAAAAAAA--- ----AAAAAAAAAAAAA---- -----AAAAAAAAAAA----- --------AAAAA-------- --------------------- 
+-AA---------------AA- -AA---------------AA- -AA-------A-------AA- --A-------A-------A-- --AAAAAAAAAAAAA--AA-- ---AAAAAAAAAAAAAAA--- ----AAAAAAAAAAAAA---- -----AAAAAAAAAAA----- -------AAAAAAA------- --------------------- --------------------- 
+--AA-------------AA-- --AA-------------AA-- --AA------A------AA-- ---A------A------A--- ---AAAAAAAAAAAAAAA--- ----AAAAAAAAAAAAA---- -----AAAAAAAAAAA----- ------AAAAAAAAA------ --------------------- --------------------- --------------------- 
+---AAA----A----AAA--- ---AAA----A----AAA--- ---AAA----A----AAA--- ----AAAAAAAAAAAAA---- -----AAAAAAAAAAA----- ------AAAAAAAAA------ -------AAAAAAA------- --------------------- --------------------- --------------------- --------------------- 
+----AAAAAAAAAAAAA---- ----AAAAAAAAAAAAA---- -----AAAAAAAAAAA----- ------AAAAAAAAA------ -------AAAAAAA------- --------AAAAA-------- --------------------- --------------------- --------------------- --------------------- --------------------- 
+-----AAAAAAAAAAA----- -----AAAAAAAAAAA----- ------AAAAAAAAA------ --------AAAAA-------- --------------------- --------------------- --------------------- --------------------- --------------------- --------------------- --------------------- 

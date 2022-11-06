@@ -1,0 +1,14 @@
+model
+size = 16 17 9, scale = 0.05, origin = -y
+material 
+  colors = A:#8640FF B:#111 C:#888 D:#5BFAD2 E:#DDD F:#EEE G:#231E17 H:#EB6EFF I:#777
+voxels
+---------------- ---------------- ---------------- ---------------- ---------------- ---------------- ---------------- --AAAAAAAA------ BBBBBAABBBBB---- BFFFBAABFFFB---- BFBFBBBBFBFB---- BFFFBAABFFFB---- BBBBBAABBBBB---- --AAAAAAAA------ --AAAAAAAA------ ---------------- ---------------- 
+----A------A---- ----A------A---- ----ADDDDDDA---- ----AHHHHHHA---- ----AAAAAAAA---- ----AAAAAAAA---- ----AAAAAAAA---- --AABBBBBA------ --ABBBBBBA------ --ABBBBBBA------ --ABBBBBBA------ --ABBBBBBA------ --ABBBBBBA------ --ABBBBBBA------ --AAAAAAAA------ ---------------- ---------------- 
+----A------A---- ----A------A---- ----DDDDDDDA---- ----HBIBBBBA---- ----ABBBBBBA--A- ----ABBBBBBA---- ----ABBBBBAA---- --AABBBBBA------ --ABBBBBBA------ --ABBBBBBA------ --ABBBBBBA------ --ABBBBBBA------ --ABBBBBBA------ --ABBBBBBA------ --AAAAAAAA------ ---------------- ---------------- 
+---------------- -----------A---- ----DDDDDDDA---- ----DBIBBBBA--A- ----HBIBBBBA--A- ----ABBBBBBA---- ----ABBBBBAA---- --AABBBBBA------ --ABBBBBBA------ --ABBBBBBA------ --ABBBBBBA------ --ABBBBBBA------ --ABBBBBBA------ --ABBBBBBA------ --AAAAAAAA------ --HH----DD------ --H------D------ 
+---------------- -----------AAA-- ----DDDDDDDA-AA- ----DBIBBBBA--A- ----HBIBBBBA---- ----ABBBBBBA---- ----ABBBBBAA---- --AABBBBBA------ --ABBBBBBA------ --ABBBBBBA------ --ABBBBBBA------ --ABBBBBBA------ --ABBBBBBA------ --ABBBBBBA------ --AAAAAAAA------ ---------------- ---------------- 
+----A------A---- ----A------A---- ----DDDDDDDA---- ----HBIBBBBA---- ----ABBBBBBA---- ----ABBBBBBA---- ----ABBBBBAA---- --AABBBBBA------ --ABBBBBBA------ --ABBBBBBA------ --ABBBBBBA------ --ABBBBBBA------ --ABBBBBBA------ --ABBBBBBA------ --AAAAAAAA------ ---------------- ---------------- 
+----A------A---- ----A------A---- ----ADDDDDDA---- ----AAAAAAAA---- ----AAAAAAAA---- ----AAAAAAAA---- ----AAAAAAAA---- --AAAAAAAA------ --AAAAAAAA------ --AAAAAAAA------ --AAAAAAAA------ --AAAAAAAA------ --AAAAAAAA------ --AAAAAAAA------ --AAAAAAAA------ ---------------- ---------------- 
+-CCCEE---------- --CCCEE--------- ---CCCCE-------- ----CCCCE------- -----CCCCE------ ------CCCCE----- -------CCCCE---- --AAAAAAAACCE--- --AAAAAAAACCCEG- --AAAAAAAACCCG-- --AAAAAAAA-CGG-- --AAAAAAAA-G--G- --AAAAAAAA-----G --AAAAAAAA------ --AAAAAAAA------ ---------------- ---------------- 
+-CCCEE---------- --CCCEE--------- ---CCCEE-------- ----CCCEE------- -----CCCEE------ ------CCCEE----- -------CCCEE---- --------CCCEE--- ---------CCCEEG- ----------CCCG-- -----------CGG-- -----------G--G- ---------------G ---------------- ---------------- ---------------- ---------------- 

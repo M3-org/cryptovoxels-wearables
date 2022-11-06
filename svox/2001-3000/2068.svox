@@ -1,0 +1,9 @@
+model
+size = 22 16 4, scale = 0.05, origin = -y
+material 
+  colors = A:#0FF B:#080818
+voxels
+------AAAA--AAAA------ ------AAAA--AAAA------ AA--AA----------AA--AA AA--AA----------AA--AA AA--AAAAAAAAAAAAAA--AA AA--AAAAAAAAAAAAAA--AA AAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAA --AAAA--AAAAAA--AAAA-- --AAAA--AAAAAA--AAAA-- ----AAAAAAAAAAAAAA---- ----AAAAAAAAAAAAAA---- ------AA------AA------ ------AA------AA------ ----AA----------AA---- ----AA----------AA---- 
+------AAAA--AAAA------ ------AAAA--AAAA------ AA--AA----------AA--AA AA--AA----------AA--AA AA--AAAAAAAAAAAAAA--AA AA--AAAAAAAAAAAAAA--AA AAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAA --AAAABBAAAAAABBAAAA-- --AAAABBAAAAAABBAAAA-- ----AAAAAAAAAAAAAA---- ----AAAAAAAAAAAAAA---- ------AA------AA------ ------AA------AA------ ----AA----------AA---- ----AA----------AA---- 
+------AAAA--AAAA------ ------AAAA--AAAA------ AA--AA----------AA--AA AA--AA----------AA--AA AA--AAAAAAAAAAAAAA--AA AA--AAAAAAAAAAAAAA--AA AAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAA --AAAABBAAAAAABBAAAA-- --AAAABBAAAAAABBAAAA-- ----AAAAAAAAAAAAAA---- ----AAAAAAAAAAAAAA---- ------AA------AA------ ------AA------AA------ ----AA----------AA---- ----AA----------AA---- 
+------AAAA--AAAA------ ------AAAA--AAAA------ AA--AA----------AA--AA AA--AA----------AA--AA AA--AAAAAAAAAAAAAA--AA AA--AAAAAAAAAAAAAA--AA AAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAA --AAAA--AAAAAA--AAAA-- --AAAA--AAAAAA--AAAA-- ----AAAAAAAAAAAAAA---- ----AAAAAAAAAAAAAA---- ------AA------AA------ ------AA------AA------ ----AA----------AA---- ----AA----------AA---- 

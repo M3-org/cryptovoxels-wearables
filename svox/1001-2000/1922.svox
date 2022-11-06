@@ -1,0 +1,16 @@
+model
+size = 12 18 11, scale = 0.05, origin = -y
+material 
+  colors = A:#111 B:#C96 C:#222 D:#DDD E:#F96 F:#99F G:#C3C H:#060 I:#FF0
+voxels
+------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ --------I--- --------B--- ----AAA----- ----AAA----- ------------ ------------ ------------ 
+------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ---------B-- -------AB--- ---CCAAA---- ---CCAAAB--- --ACCAAA---- --ACCAAA---- --ACCAAA---- ------------ 
+------------ ------------ ------------ ------------ ------------ ---C-------- ---C-------- -A-C-------- -A-C-------- -A-C-AAABB-- -A-C-AAABBB- -A-CAAA-BB-- -AACAAAAD--- -AACAAAAD--- -ABCAAAAF--- -ABCAAAAB--- --ACCAAA---- ------------ 
+------------ ------------ ------------ ------------ ------------ ------------ -A---------- -A---------- -A---CAABB-- -A---CAABBB- -A--CCAABBB- -A-ACCAA-BB- ABAACCAAH--- ABAACCAAD--- ABBBCCAAF--- ABBBCCAAB--- -AACCCBA---- -----CA----- 
+------------ ------------ ------------ ------------ ------------ ------------ ------------ ----C-BBB--- ---ACCBBBBB- -A-A-CBBBBG- -A-ACCBBBBB- -AAACCBBBBB- ABAACCBBD--- ABAACCBED--- ABBBCCBEB--- ABBBCCBBB--- -AACCCBA---- ----CCA----- 
+------------ ------------ ------------ ------------ ------------ --A--------- --A--------- --A---BBB--- --A--CBBBBB- --A--CABBBG- -AABCCABBBB- -ABBCCBBBBBB ABBBCCBBBB-- ABBBCCEEB--- ABBBCCEEB--- ABBBCCBBB--- -AACCCBA---- ----CCA----- 
+------------ ------------ ------------ ------------ ------------ -A---------- -A---------- -A----BBB--- -A---CBBBBB- -A---CABBBG- -A-BCCABBBB- -ABBCCBBBBB- ABBBCCBBD--- ABBBCCBED--- ABBBCCBEB--- ABBBCCBBB--- -AACCCBA---- ----CCA----- 
+------------ ------------ ------------ ------------ ------------ ---A-------- -A-A-------- -A-A-------- -A-A-CBBBB-- -A-A-CABBBB- -A-ACCAABBB- -A-ACCAA-BB- ABBACCAAH--- ABBBCCAAD--- ABBBCCAAF--- ABBBCCAAB--- -AACCCBA---- -----CA----- 
+--------A--- ------A-A--- ------A-A--- ------A-A--- ----C-C-A--- ----C-C-A--- --A-C-C-A--- --A-C-CAA--- --A-C-CA---- --A-CCABBB-- --A-CCAABBB- -AA-CCAABB-- -ABACCAAD--- AABBCCAAD--- AABBCCAAF--- AABBCCAAB--- --ACCCAA---- ------------ 
+-------A---- -----A-A---- -----A-A---- -----A-A---- -----A-A---- -----A-A---- -----A-A---- -----A-A---- -----A-A---- -----A-A---- -----A-ABB-- -----A-AB--- -AAAAAAA---- -AAACACAB--- -AAACACA---- -AAACACA---- --ACCCCA---- ------------ 
+------------ ------------ ------------ ------------ ------C----- ----C-C----- ----C-C----- ----C-C----- ----C-C----- ----C-C----- ----C-C----- ----C-C-I--- ----C-C-B--- ----CAC----- ----CAC----- ------------ ------------ ------------ 

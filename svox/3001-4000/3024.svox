@@ -1,0 +1,29 @@
+model
+size = 6 30 24, scale = 0.05, origin = -y
+material 
+  colors = A:#EEE
+voxels
+------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A 
+------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ -----A ----AA ----AA ----AA ----AA ----AA ----AA ----AA ----AA ----AA -----A 
+------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ -----A ----AA ---AAA ---AAA ---AAA ---AAA ---AAA ---AAA ---AAA ----AA -----A 
+------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ -----A ----AA ---AAA --AAAA --AAAA --AAAA --AAAA --AAAA ---AAA ----AA -----A 
+------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ -----A ----AA ---AAA --AAAA -AAAAA -AAAAA -AAAAA --AAAA ---AAA ----AA -----A 
+------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ -----A ----AA ---AAA --AAAA -AAAAA AAAAAA -AAAAA --AAAA ---AAA ----AA -----A 
+-----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A ----AA ---AAA --AAAA -AAAAA AAAAAA -AAAAA --AAAA ---AAA ----AA -----A 
+-----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A ----AA ---AAA --AAAA -AAAAA AAAAAA -AAAAA --AAAA ---AAA ----AA -----A 
+----AA ----AA ----AA ----AA ----AA ----AA ----AA ----AA ----AA ----AA ----AA ----AA ----AA ----AA ----AA ----AA ----AA ----AA ----AA ----AA ----AA ---AAA --AAAA -AAAAA AAAAAA -AAAAA --AAAA ---AAA ----AA -----A 
+---AAA ---AAA ---AAA ---AAA ---AAA ---AAA ---AAA ---AAA ---AAA ---AAA ---AAA ---AAA ---AAA ---AAA ---AAA ---AAA ---AAA ---AAA ---AAA ---AAA ---AAA ---AAA --AAAA -AAAAA AAAAAA -AAAAA --AAAA ---AAA ----AA -----A 
+--AAAA --AAAA --AAAA --AAAA --AAAA --AAAA --AAAA --AAAA --AAAA --AAAA --AAAA --AAAA --AAAA --AAAA --AAAA --AAAA --AAAA --AAAA --AAAA --AAAA --AAAA --AAAA --AAAA -AAAAA AAAAAA -AAAAA --AAAA ---AAA ----AA -----A 
+-AAAAA -AAAAA -AAAAA -AAAAA -AAAAA -AAAAA -AAAAA -AAAAA -AAAAA -AAAAA -AAAAA -AAAAA -AAAAA -AAAAA -AAAAA -AAAAA -AAAAA -AAAAA -AAAAA -AAAAA -AAAAA -AAAAA -AAAAA -AAAAA AAAAAA -AAAAA --AAAA ---AAA ----AA -----A 
+-AAAAA -AAAAA -AAAAA -AAAAA -AAAAA -AAAAA -AAAAA -AAAAA -AAAAA -AAAAA -AAAAA -AAAAA -AAAAA -AAAAA -AAAAA -AAAAA -AAAAA -AAAAA -AAAAA -AAAAA -AAAAA -AAAAA -AAAAA -AAAAA AAAAAA -AAAAA --AAAA ---AAA ----AA -----A 
+--AAAA --AAAA --AAAA --AAAA --AAAA --AAAA --AAAA --AAAA --AAAA --AAAA --AAAA --AAAA --AAAA --AAAA --AAAA --AAAA --AAAA --AAAA --AAAA --AAAA --AAAA --AAAA --AAAA -AAAAA AAAAAA -AAAAA --AAAA ---AAA ----AA -----A 
+---AAA ---AAA ---AAA ---AAA ---AAA ---AAA ---AAA ---AAA ---AAA ---AAA ---AAA ---AAA ---AAA ---AAA ---AAA ---AAA ---AAA ---AAA ---AAA ---AAA ---AAA ---AAA --AAAA -AAAAA AAAAAA -AAAAA --AAAA ---AAA ----AA -----A 
+----AA ----AA ----AA ----AA ----AA ----AA ----AA ----AA ----AA ----AA ----AA ----AA ----AA ----AA ----AA ----AA ----AA ----AA ----AA ----AA ----AA ---AAA --AAAA -AAAAA AAAAAA -AAAAA --AAAA ---AAA ----AA -----A 
+-----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A ----AA ---AAA --AAAA -AAAAA AAAAAA -AAAAA --AAAA ---AAA ----AA -----A 
+-----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A ----AA ---AAA --AAAA -AAAAA AAAAAA -AAAAA --AAAA ---AAA ----AA -----A 
+------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ -----A ----AA ---AAA --AAAA -AAAAA -AAAAA -AAAAA --AAAA ---AAA ----AA -----A 
+------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ -----A ----AA ---AAA --AAAA --AAAA --AAAA --AAAA --AAAA ---AAA ----AA -----A 
+------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ -----A ----AA ---AAA ---AAA ---AAA ---AAA ---AAA ---AAA ---AAA ----AA -----A 
+------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ -----A ----AA ----AA ----AA ----AA ----AA ----AA ----AA ----AA ----AA -----A 
+------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A 
+------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A -----A 

@@ -1,0 +1,7 @@
+model
+size = 16 6 2, scale = 0.05, origin = -y
+material 
+  colors = A:#60373E B:#562E37 C:#F596AA D:#4B2436 E:#F8C3CD
+voxels
+-AAB--------BAA- -ABAD------DABA- -BADAB----BADAB- -ADABA----ABADA- -DABA------ABAD- ---------------- 
+-BAA--------AAB- -ACEB------BECA- AACEEA----AEECAA BCDCCB----BCCDCB ACCAB------BACCA BAB----------BAB 

@@ -1,0 +1,30 @@
+model
+size = 25 3 25, scale = 0.05, origin = -y
+material 
+  colors = A:#EEE B:#111
+voxels
+AAAAAAAAAAAAAAAAAAAAAAAAA BBBBBBB-B---B-B----BBBBBB ------------------------- 
+AAAAAAAAAAAAAAAAAAAAAAAAA B-----B-B-B-BB-BBB-BBB--B ------------------------- 
+AAAAAAAAAAAAAAAAAAAAAAAAA B-BBB-B-B-B--BB-B----BB-B ------------------------- 
+AAAAAAAAAAAAAAAAAAAAAAAAA B-BBB-B-B-B-BB-B--B-BBBBB ------------------------- 
+AAAAAAAAAAAAAAAAAAAAAAAAA B-BBB-B-BBBB---BBBBBB-BBB ------------------------- 
+AAAAAAAAAAAAAAAAAAAAAAAAA B-----B----B----B---BB--- ------------------------- 
+AAAAAAAAAAAAAAAAAAAAAAAAA BBBBBBB-B-BBB-B-B-B-B-BBB ------------------------- 
+AAAAAAAAAAAAAAAAAAAAAAAAA --------B-----B-B---BB--- ------------------------- 
+AAAAAAAAAAAAAAAAAAAAAAAAA B-BB-BBB----BBB-BBBBB-B-- ------------------------- 
+AAAAAAAAAAAAAAAAAAAAAAAAA B---BB-B-B--B--B--BBB---B ------------------------- 
+AAAAAAAAAAAAAAAAAAAAAAAAA B-----B-BB----BBBBBBBB-BB ------------------------- 
+AAAAAAAAAAAAAAAAAAAAAAAAA B--BBB-B--B-B-B--B-B-B-B- ------------------------- 
+AAAAAAAAAAAAAAAAAAAAAAAAA B--BBBBBBB-B-B---BB-B-BBB ------------------------- 
+AAAAAAAAAAAAAAAAAAAAAAAAA --BB-B--BBBB----BBB-----B ------------------------- 
+AAAAAAAAAAAAAAAAAAAAAAAAA -BB-BBB--B-BBB-BB---BB-BB ------------------------- 
+AAAAAAAAAAAAAAAAAAAAAAAAA -B-B-B-B-B---BB----B---B- -------B----------------- 
+AAAAAAAAAAAAAAAAAAAAAAAAA BBBBB-BBBBB-B-BBBB-B-B-B- ------------------------- 
+AAAAAAAAAAAAAAAAAAAAAAAAA ------------B------------ ------------------------- 
+AAAAAAAAAAAAAAAAAAAAAAAAA BBBBBBB-B-B-B-B---BBBBBBB ------------------------- 
+AAAAAAAAAAAAAAAAAAAAAAAAA B-----B-B-B---BB--B-----B ------------------------- 
+AAAAAAAAAAAAAAAAAAAAAAAAA B-BBB-B---B-B-BBB-B-BBB-B ------------------------- 
+AAAAAAAAAAAAAAAAAAAAAAAAA B-BBB-B-BB-B-B----B-BBB-B ------------------------- 
+AAAAAAAAAAAAAAAAAAAAAAAAA B-BBB-B--BBB--B-B-B-BBB-B ------------------------- 
+AAAAAAAAAAAAAAAAAAAAAAAAA B-----B-BB-BB-BB--B-----B ------------------------- 
+AAAAAAAAAAAAAAAAAAAAAAAAA BBBBBBB--B----BBB-BBBBBBB ------------------------- 

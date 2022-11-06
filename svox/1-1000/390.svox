@@ -1,0 +1,24 @@
+model
+size = 1 30 19, scale = 0.05, origin = -y
+material 
+  colors = A:#EEE B:#800 C:#9CF D:#CC3 E:#A00 F:#001 G:#FFC H:#003 I:#D00 J:#009 K:#066 L:#639 M:#033 N:#00F O:#060 P:#006 Q:#636 R:#6F3 S:#069 T:#063 U:#00C V:#030 W:#700 X:#0C9 Y:#63C Z:#6C9
+voxels
+A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
+A A A A A A Q D W W D O M O M N L D S D U D N N I I I Q L A 
+A A A A A A V J W B N H O Z H O P E E O Y P J Z I D I I L A 
+A A F A F A D J P B B H O X D M L S E E E E E Z I J L I L A 
+A A F A F A L V H O B H I M R R S O Y Y K T E E J P D I L A 
+A A F A F A J N L H H B B J K K C C C C C T D T U K W I L A 
+A A F A F A U R E E K E B S D C C G G G C C K D M N W N L A 
+A A F A F A Q E E M H E D K C C G F G G G C C J P E W D D A 
+A A F A F A N E I D O P K M C G F G G F G G C M E E E P X A 
+A A F A F A D S O M Z O D T C G F G G G G G C K S R E J L A 
+A A F A F A U M R H I M X T C G F G G F G G C Y R V E D Q A 
+A A F A F A J E B H B K K K C C G F G G G C C T H P B D D A 
+A A F A F A L B B X H H E E K C C G G G C C S R B U J I Q A 
+A A F A F A D B M B B B J E T S C C C C C T R J B H H I X A 
+A A F A F A M V B S J B B B K H H S Y K T D R H N I J I Q A 
+A A A A A A Q J P D X B I B B E E E E E E R J I B I N P L A 
+A A A A A A D H P O K D J V B J B B B B B B N B V B D B D A 
+A A A A A A M U Q N H N K T U L Q U L D V D D U D B B B Q A 
+A A A A A A A A 

@@ -1,0 +1,7 @@
+model
+size = 11 10 2, scale = 0.05, origin = -y
+material 
+  colors = A:#D00 B:#E00 C:#B00 D:#A00
+voxels
+----------- -----B----- ----BCD---- ---BCACD--- --AABABCC-- -CBCAACAAC- -BCAADBACA- -AABB-DABC- --BA---DA-- ----------- 
+-----D----- ----BBD---- ---CABBC--- --AACCBAA-- -CBAAACCBA- DBBBCAAAABC CACBAACACAA AACBBDAAAAA BCAAC-DBACA -BBC---CAB- 

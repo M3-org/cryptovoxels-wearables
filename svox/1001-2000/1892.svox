@@ -1,0 +1,23 @@
+model
+size = 9 14 18, scale = 0.05, origin = -y
+material 
+  colors = A:#111 B:#BBB C:#90F D:#0C0 E:#03F F:#F60 G:#E00 H:#FF3
+voxels
+---BBB--- ---AAA--- ---AAA--- ---AAA--- ---AAA--- ---AAA--- ---AAA--- ---AAA--- ---HHH--- ---AAA--- ---FFF--- ---AAA--- ---GGG--- ---AAA--- 
+--BBBBB-- --AAAAA-- --AAAAA-- --AAAAA-- --AAAAA-- --AAAAA-- --AAAAA-- --AAAAA-- --HHHHH-- --AAAAA-- --FFFFF-- --AAAAA-- --GGGGG-- --AAAAA-- 
+--BBBBB-- --AAAAA-- --AAAAA-- --AAAAA-- --AAAAA-- --AAAAA-- --AAAAA-- --AAAAA-- --HHHHH-- --AAAAA-- --FFFFF-- --AAAAA-- --GGGGG-- --AAAAA-- 
+-BBBBBBB- -AAAAAAA- -AAAAAAA- -AAAAAAA- -AAAAAAA- -AAAAAAA- -AAAAAAA- -AAAAAAA- -HHHHHHH- -AAAAAAA- -FFFFFFF- -AAAAAAA- -GGGGGGG- -AAAAAAA- 
+-BBBBBBB- -AAAAAAA- -AAAAAAA- -AAAAAAA- -AAAAAAA- -AAAAAAA- -AAAAAAA- -AAAAAAA- -HHHHHHH- -AAAAAAA- -FFFFFFF- -AAAAAAA- -GGGGGGG- -AAAAAAA- 
+BBBBBBBBB AAAAAAAAA AAAAAAAAA -AAAAAAA- -AAAAAAA- -AAAAAAA- -AAAAAAA- -AAAAAA-- --HHHHH-- --AAAAA-- --FFFFF-- --AAAAA-- --GGGGG-- --AAAAA-- 
+BBBBBBBBB AAAAAAAAA AAAAAAAAA -AAAAAAA- -AAAAAAA- -AAAAAAA- --AAAAA-- --AAAAA-- ---HHH--- ---AAA--- ---FFF--- ---AAA--- ---GGG--- ---AAA--- 
+BBBBBBBBB AAAAAAAAA AAAAAAAAA -AAAAAAA- -AAAAAAA- --AAAAA-- --AAAAA-- ---AAA--- --------- --------- --------- --------- --------- --------- 
+BBBBBBBBB AAAAAAAAA AAAAAAAAA -AAAAAAA- -AAAAAAA- --AAAAA-- ---AAA--- --------- --------- --------- --------- --------- --------- --------- 
+BBBBBBBBB AAAAAAAAA AAAAAAAAA -AAAAAAA- -AAAAAAA- --AAAAA-- --------- --------- --------- --------- --------- --------- --------- --------- 
+BBBBBBBBB DDDDDDDDD DDDDDDDDD -DDDDDDD- -DDDDDDD- --DDDDD-- --------- --------- --------- --------- --------- --------- --------- --------- 
+BBBBBBBBB AAAAAAAAA AAAAAAAAA -AAAAAAA- -AAAAAAA- --AAAAA-- --------- --------- --------- --------- --------- --------- --------- --------- 
+BBBBBBBBB EEEEEEEEE EEEEEEEEE -EEEEEEE- -EEEEEEE- --EEEEE-- --------- --------- --------- --------- --------- --------- --------- --------- 
+BBBBBBBBB AAAAAAAAA AAAAAAAAA -AAAAAAA- -AAAAAAA- --AAAAA-- --------- --------- --------- --------- --------- --------- --------- --------- 
+BBBBBBBBB CCCCCCCCC CCCCCCCCC -CCCCCCC- -CCCCCCC- --CCCCC-- --------- --------- --------- --------- --------- --------- --------- --------- 
+-BBBBBBB- -AAAAAAA- -AAAAAAA- -AAAAAAA- -AAAAAAA- --AAAAA-- --------- --------- --------- --------- --------- --------- --------- --------- 
+-BBBBBBB- -AAAAAAA- -AAAAAAA- --AAAAA-- --AAAAA-- ---AAA--- --------- --------- --------- --------- --------- --------- --------- --------- 
+--BBBBB-- --AAAAA-- --AAAAA-- ---AAA--- ---AAA--- --------- --------- --------- --------- --------- --------- --------- --------- --------- 

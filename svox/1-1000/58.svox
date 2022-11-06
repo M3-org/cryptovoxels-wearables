@@ -1,0 +1,27 @@
+model
+size = 22 9 22, scale = 0.05, origin = -y
+material 
+  colors = A:#9CF
+voxels
+-AAAAAAAAAAAAAAAAAAAA- -AAAAAAAAAAAAAAAAAAAA- ---------------------- ---------------------- ---------------------- ---------------------- ---------------------- ---------------------- ---------------------- 
+AAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAA ---------------------- ---------------------- ---------------------- ---------------------- ---------------------- ---------------------- ---------------------- 
+AA------------------AA AA------------------AA --AAAAAAAAAAAAAAAAAA-- --AAAAAAAAAAAAAAAAAA-- --AAAAAAAAAAAAAAAAAA-- --AAAAAAAAAAAAAAAAAA-- --AAAAAAAAAAAAAAAAAA-- --AAAAAAAAAAAAAAAAAA-- --AAAAAAAAAAAAAAAAAA-- 
+AA------------------AA AA------------------AA --A----------------A-- --A----------------A-- --A----------------A-- --A----------------A-- --A----------------A-- --AAAAAAAAAAAAAAAAAA-- --AAAAAAAAAAAAAAAAAA-- 
+AA------------------AA AA------------------AA --A----------------A-- --A----------------A-- --A----------------A-- --A----------------A-- --A----------------A-- --AAAAAAAAAAAAAAAAAA-- --AAAAAAAAAAAAAAAAAA-- 
+AA------------------AA AA------------------AA --A----------------A-- --A----------------A-- --A----------------A-- --A----------------A-- --A----------------A-- --AAAAAAAAAAAAAAAAAA-- --AAAAAAAAAAAAAAAAAA-- 
+AA------------------AA AA------------------AA --A----------------A-- --A----------------A-- --A----------------A-- --A----------------A-- --A----------------A-- --AAAAAAAAAAAAAAAAAA-- --AAAAAAAAAAAAAAAAAA-- 
+AA------------------AA AA------------------AA --A----------------A-- --A----------------A-- --A----------------A-- --A----------------A-- --A----------------A-- --AAAAAAAAAAAAAAAAAA-- --AAAAAAAAAAAAAAAAAA-- 
+AA------------------AA AA------------------AA --A----------------A-- --A----------------A-- --A----------------A-- --A----------------A-- --A----------------A-- --AAAAAAAAAAAAAAAAAA-- --AAAAAAAAAAAAAAAAAA-- 
+AA------------------AA AA------------------AA --A----------------A-- --A----------------A-- --A----------------A-- --A----------------A-- --A----------------A-- --AAAAAAAAAAAAAAAAAA-- --AAAAAAAAAAAAAAAAAA-- 
+AA------------------AA AA------------------AA --A----------------A-- --A----------------A-- --A----------------A-- --A----------------A-- --A----------------A-- --AAAAAAAAAAAAAAAAAA-- --AAAAAAAAAAAAAAAAAA-- 
+AA------------------AA AA------------------AA --A----------------A-- --A----------------A-- --A----------------A-- --A----------------A-- --A----------------A-- --AAAAAAAAAAAAAAAAAA-- --AAAAAAAAAAAAAAAAAA-- 
+AA------------------AA AA------------------AA --A----------------A-- --A----------------A-- --A----------------A-- --A----------------A-- --A----------------A-- --AAAAAAAAAAAAAAAAAA-- --AAAAAAAAAAAAAAAAAA-- 
+AA------------------AA AA------------------AA --A----------------A-- --A----------------A-- --A----------------A-- --A----------------A-- --A----------------A-- --AAAAAAAAAAAAAAAAAA-- --AAAAAAAAAAAAAAAAAA-- 
+AA------------------AA AA------------------AA --A----------------A-- --A----------------A-- --A----------------A-- --A----------------A-- --A----------------A-- --AAAAAAAAAAAAAAAAAA-- --AAAAAAAAAAAAAAAAAA-- 
+AA------------------AA AA------------------AA --A----------------A-- --A----------------A-- --A----------------A-- --A----------------A-- --A----------------A-- --AAAAAAAAAAAAAAAAAA-- --AAAAAAAAAAAAAAAAAA-- 
+AA------------------AA AA------------------AA --A----------------A-- --A----------------A-- --A----------------A-- --A----------------A-- --A----------------A-- --AAAAAAAAAAAAAAAAAA-- --AAAAAAAAAAAAAAAAAA-- 
+AA------------------AA AA------------------AA --A----------------A-- --A----------------A-- --A----------------A-- --A----------------A-- --A----------------A-- --AAAAAAAAAAAAAAAAAA-- --AAAAAAAAAAAAAAAAAA-- 
+AA------------------AA AA------------------AA --A----------------A-- --A----------------A-- --A----------------A-- --A----------------A-- --A----------------A-- --AAAAAAAAAAAAAAAAAA-- --AAAAAAAAAAAAAAAAAA-- 
+AA------------------AA AA------------------AA --AAAAAAAAAAAAAAAAAA-- --AAAAAAAAAAAAAAAAAA-- --AAAAAAAAAAAAAAAAAA-- --AAAAAAAAAAAAAAAAAA-- --AAAAAAAAAAAAAAAAAA-- --AAAAAAAAAAAAAAAAAA-- --AAAAAAAAAAAAAAAAAA-- 
+AAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAA ---------------------- ---------------------- ---------------------- ---------------------- ---------------------- ---------------------- ---------------------- 
+-AAAAAAAAAAAAAAAAAAAA- -AAAAAAAAAAAAAAAAAAAA- ---------------------- ---------------------- ---------------------- ---------------------- ---------------------- ---------------------- ---------------------- 

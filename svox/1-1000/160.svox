@@ -1,0 +1,12 @@
+model
+size = 15 21 7, scale = 0.05, origin = -y
+material 
+  colors = A:#03F B:#111 C:#06F D:#400 E:#AAA
+voxels
+CCCCCC---CCCCCC CCCCCC---CCCCCC BBBBBB---BBBBBB AAAAAA---AAAAAA AAAAAA---AAAAAA AAAAAA---AAAAAA AAAAAA---AAAAAA AAAAAA---AAAAAA AAAAAA---AAAAAA AAAAAA---AAAAAA AAAAAA---AAAAAA AAAAAAAAAAAAAAA AAAAAAAAAAAAAAA AAAAAAAAAAAAAAA AAAAAAAAAAAAAAA BAAAAAAAAAAAAAB ABAAAAAAAAAAABA AABAAAAAAAAABAA AAABABBBBBABAAA DDDDDBEBEBDDDDD DDDDDBBBBBDDDDD 
+C----C---C----C C----C---C----C B----B---B----B A----A---A----A A----A---A----A A----A---A----A A----A---A----A A----A---A----A A----A---A----A A----A---A----A A----A---A----A A----AAAAA----A A-------------A A-------------A A-------------A A-------------A A-------------A A-------------A A-------------A D-------------D D-------------D 
+C----C---C----C C----C---C----C B----B---B----B A----A---A----A A----A---A----A A----A---A----A A----A---A----A A----A---A----A A----A---A----A A----A---A----A A----A---A----A A----AAAAA----A A-------------A A-------------A A-------------A A-------------A A-------------A A-------------A A-------------A D-------------D D-------------D 
+C----C---C----C C----C---C----C B----B---B----B A----A---A----A B----A---A----B B----A---A----B B----A---A----B A----A---A----A B----A---A----B B----A---A----B B----A---A----B A----AAAAA----A B-------------B B-------------B B-------------B A-------------A B-------------B B-------------B B-------------B D-------------D D-------------D 
+C----C---C----C C----C---C----C B----B---B----B A----A---A----A A----A---A----A A----A---A----A A----A---A----A A----A---A----A A----A---A----A A----A---A----A A----A---A----A A----AAAAA----A A-------------A A-------------A A-------------A A-------------A A-------------A A-------------A A-------------A D-------------D D-------------D 
+C----C---C----C C----C---C----C B----B---B----B A----A---A----A A----A---A----A A----A---A----A A----A---A----A A----A---A----A A----A---A----A A----A---A----A A----A---A----A A----AAAAA----A A-------------A A-------------A A-------------A A-------------A A-------------A A-------------A A-------------A D-------------D D-------------D 
+CCCCCC---CCCCCC CCCCCC---CCCCCC BBBBBB---BBBBBB AAAAAA---AAAAAA AAAAAA---AAAAAA AAAAAA---AAAAAA AAAAAA---AAAAAA AAAAAA---AAAAAA AAAAAA---AAAAAA AAAAAA---AAAAAA AAAAAA---AAAAAA AAAAAAAAAAAAAAA AAAAAAAAAAAAAAA AABBAAAAAAABBAA ABCCBAAAAABCCBA ABCCBAAAAABCCBA ABCCBAAAAABCCBA ABBBBAAAAABBBBA AAAAAAAAAAAAAAA DDDDDDDDDDDDDDD DDDDDDDDDDDDDDD 

@@ -1,0 +1,6 @@
+model
+size = 32 31 3, scale = 0.05, origin = -y
+material 
+  colors = A:#777 B:#EEE C:#A28C37 D:#0F2540
+voxels
+167-2(2C29-)2C30-C730-2C30-C2D4(30-DBD)2C28-DAB29-2CAB28-C-22(2AB30-)2AB167-2(2C29-)2C30-C730-
