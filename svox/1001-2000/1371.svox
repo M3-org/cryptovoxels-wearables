@@ -3,10 +3,4 @@ size = 10 1 7, scale = 0.05, origin = -y
 material 
   colors = A:#FFFFFB B:#CA7A2C C:#222 D:#444 E:#555 F:#777 G:#888
 voxels
---CAAAAABB 
----------- 
--D-------- 
---E------- 
--F-------- 
----------- 
-G--------- 
+G20-F10-E8-D20-C5A2B

@@ -1,0 +1,6 @@
+model
+size = 14, scale = 0.05, origin = -y
+material deform = 1, fade = true, lighting = smooth, roughness = 0.3, metalness = 0.6
+  colors = A:#1C1D20
+voxels
+5-6A7-26(6A8-)6A2(6-2A)13(4-2A6-2A)3-27(A10-A2-)A10-A-A83(12-2A)12-A-27(A10-A2-)A10-A3-13(2A6-2A4-)2A6-2A2-

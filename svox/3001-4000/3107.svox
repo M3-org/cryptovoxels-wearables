@@ -3,30 +3,4 @@ size = 9 8 27, scale = 0.05, origin = -y
 material 
   colors = A:#C6C B:#777 C:#111 D:#FC3 E:#CCF F:#FF9 G:#AAA H:#F3F I:#FC9 J:#F96 K:#F09 L:#F39 M:#CC9 N:#FC0 O:#FF0 P:#F0F Q:#FFF R:#F0C S:#FF6 T:#F3C U:#FFC V:#F63 W:#FCC X:#F36 Y:#F66 Z:#F00 Aa:#CC0 Ab:#F9C Ac:#F6C Ad:#F93 Ae:#FC6 Af:#FF3 Ag:#F60 Ah:#F9F Ai:#CF9 Aj:#CC6 Ak:#CF3 Al:#FCF Am:#CCC An:#CFF Ao:#F90 Ap:#F06 Aq:#CF0 Ar:#F6F As:#F30 At:#F99 Au:#CFC Av:#F33 Aw:#F03 Ax:#F69 Ay:#CF6 Az:#CC3
 voxels
-- - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - AzAsAh- - -   - - - I H K - - -   
-- - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - AjZ AaE Aa- -   - - O N Q S Z - -   
-- - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - AaO AeAuU AiAd-   - AdF ApAiQ AjD -   
-- - - - - - - - -   A A - - - - - A A   A A - - - - - A A   A A - - - - - A A   - - - - - - - - -   - - - - - - - - -   - S D AvR AbArY -   - AuAvAeAfAlU Ag-   
-A A - - - - - A A   Q - - - - - - - E   X - - - - - - - J   V - - - - - - - Z   A A - - - - - A A   - - - - - - - - -   - N AsP P AoV I -   - K E AxArK R I -   
-A A - - - - - A A   E - - - - - - - J   B B B B B B B B B   Ab- - B B B - - L   A A - - B - - A A   - - - - B - - - -   - AeE G AyG AaAw-   - M J AhL I AlD -   
-A A - - - - - A A   Aj- - - - - - - K   O - - - - - - - Ac  I - - - B - - - T   A A - - B - - A A   - - - - B - - - -   - L AdG ApG AbM -   - O AfO S U AkD -   
-- - - - - - - - -   A A - - - - - A A   A A - - - - - A A   A A - - - - - A A   - - - - B - - - -   - - - - B - - - -   - H AtG AtG X P -   - H R U E L H Y -   
-- - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - H AbAeD Q AcD -   - E AjO AiV F Ag-   
-- - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - J AmV AnAfF T -   - Z E AyW T AtF -   
-- - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - AnC C K C C E -   - N AwAkAcF AkM -   
-- - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - R Q X C S AeF -   - L X O V U ApM -   
-- - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - AcC C C C C E -   - AsW S AmD V R -   
-- - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - F C AbH O C Aq-   - AjAgAeK D D W -   
-- - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - AtC AqC I C Ah-   - AaK AmT F AgX -   
-- - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - Q C AdC AuC Aa-   - L AkAqAbQ I Ad-   
-- - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - AvC C C C C S -   - X AhT P AvD Au-   
-- - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - K V I ArT M N -   - T AsS Q I D K -   
-- - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - N AjJ ApZ P Ae-   - AwP AoApAbY M -   
-- - - - - - - - -   A A - - - - - A A   A A - - - - - H A   A A - - - - - A A   - - - - B - - - -   - - - - B - - - -   - AlU G AqG D L -   - AfAmAmAdAoAgO -   
-A A - - - - - A A   F - - - - - - - N   M - - - - - - - Aw  D - - - B - - - F   A A - - B - - A A   - - - - B - - - -   - Y S G AfG T H -   - Z V ArW Y F H -   
-A A - - - - - A A   Ac- - - - - - - Y   B B B B B B B B B   Ai- - B B B - - N   A A - - B - - A A   - - - - B - - - -   - Y N G W G E H -   - AgU Q AdM M E -   
-A A - - - - - A A   Ax- - - - - - - R   As- - - - - - - Ao  Ak- - - - - - - K   A A - - - - - A A   - - - - - - - - -   - E AoAfJ R F J -   - X AiAlAtAyM Z -   
-- - - - - - - - -   A A - - - - - A A   A A - - - - - A A   A A - - - - - A A   - - - - - - - - -   - - - - - - - - -   - L AgP AnAxA An-   - Y I ArW J R N -   
-- - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - U S L D AfAqR -   - H P AhAcAlW L -   
-- - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - AkAlJ AnAh- -   - - AnAaAiAmX - -   
-- - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - - - - - - -   - - - W AhT - - -   - - - P AcJ - - -   
+57-WAhT6-PAcJ59-AkAlJAnAh4-AnAaAiAmX57-USLDAfAqR2-HPAhAcAlWL10-2A2(5-4A)5-2A19-LAgPAnAxAAn2-YIArWJRN-2A5-2AAx7-RAs7-AoAk7-K2A5-2A10-EAoAfJRFJ2-XAiAlAtAyMZ-2A5-2AAc7-Y9BAi2-3B2-N2A2-B2-2A4-B5-YNGWGEH2-AgUQAd2ME-2A5-2AF7-NM7-AwD3-B3-F2A2-B2-2A4-B5-YSGAfGTH2-ZVArWYFH10-2A5-4A5-H3A5-2A4-B8-B5-AlUGAqGDL2-Af2AmAdAoAgO56-NAjJApZPAe2-AwPAoApAbYM56-KVIArTMN2-TAsSQIDK56-Av5CS2-XAhTPAvDAu56-QCAdCAuCAa2-LAkAqAbQIAd56-AtCAqCICAh2-AaKAmTFAgX56-FCAbHOCAq2-AjAgAeK2DW56-Ac5CE2-AsWSAmDVR56-RQXCSAeF2-LXOVUApM56-An2CK2CE2-NAwAkAcFAkM56-JAmVAnAfFT2-ZEAyWTAtF56-HAbAeDQAcD2-EAjOAiVFAg10-2A2(5-4A)5-2A4-B8-B5-H2(AtG)XP2-HRUELHY-2A5-2AAj7-KO7-AcI3-B3-T2A2-B2-2A4-B5-LAdGApGAbM2-OAfOSUAkD-2A5-2AE7-J9BAb2-3B2-L2A2-B2-2A4-B5-AeEGAyGAaAw2-MJAhLIAlD-2A5-2AQ7-EX7-JV7-Z2A5-2A10-NAs2PAoVI2-KEAxArKRI10-2A2(5-4A)5-2A19-SDAvRAbArY2-AuAvAeAfAlUAg56-AaOAeAuUAiAd2-AdFApAiQAjD57-AjZAaEAa4-ONQSZ59-AzAsAh6-IHK3-

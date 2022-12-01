@@ -3,20 +3,4 @@ size = 8 7 17, scale = 0.05, origin = -y
 material 
   colors = A:#E00 B:#330 C:#AAA
 voxels
--------- --AAAA-- -AAAAAA- -BABABA- --A-A--- -------- -------- 
--AAAAAA- -AAAAAA- AABAABA- AAAAABB- -AAA-AA- -------- -------- 
--AAAAAA- -AAAAAAA AAAAAAAA BAABAABA A-A-AA-- -------- -------- 
--AAAAAAA -AAAAAAA AAAAAAAA AABABAAB AA-A-AA- -------- -------- 
--AAAAAAA -AAAAAAA AAAAAAAA AAAAAABA -AAAAA-A -------- -------- 
--AAAAAAA -AAAAAAA -AAAAAAA ABABABAA --A-A-A- -------- -------- 
---AAAAA- -AAAAAAA -AAAAAAA AAAAAAA- -AAAAA-- -------- -------- 
----AAA-- --AAAAA- -AAAAAAA AABAAAA- -AAAAAA- ---AA--- -------- 
--------- --AAAA-- -AAAAAAA AAAAAAA- -AAAAAA- --AAAA-- -------- 
--AAAAA-- -AAAAAA- -AAAAAAA AAAAAAA- -AAAAAAA -AAAAAA- --AAAA-- 
--AAAAAA- -AAAAAAA AAAAAAAA AA----AA -A----AA -A----AA ------A- 
--AAAAAAA -AAAAAAA -AAAAAAA CA----AC A------A -------- -------- 
--AAAAAAA -AAAAAAA -AAAAAAA ------AA A------A A------- -------- 
---AAAAA- -AAAAAAA -AAAAAAA -------- AA-----A A------A -------- 
---AAAAA- --AAAAA- --AAAAAA -------- -A------ AA-----A -A-----A 
--------- ---AAA-- ---AAAA- -------- -------- -AA---A- -A----A- 
--------- -------- -------- -------- -------- --AAAA-- --AAAA-- 
+42-4A4-4A13-3A5-4A18-2A3-A2-A4-A2(3-5A)3-6A9-A6-2A5-A-A5-A2-5A2-7A-7A8-2A5-2A6-A9-2(7A-)7A6-3A6-2A16-2(7A-)7ACA4-ACA6-A17-6A2-17A2(4-2A-A)4-2A6-A2-5A3-6A2-14A2-7A-6A3-4A12-4A3-14A2-6A3-4A13-3A4-5A2-9AB4A2-6A4-2A13-5A2-7A-14A2-5A19-2(7A-)8A2(BA)B2A2-2(A-)A18-7A-21ABA-5A-A17-7A-17ABA2(B2A)-A-2A18-6A2-15A3(B2A)-A-2A19-6A2-6A-2(2AB)A-5A2B2-3A-2A27-4A3-6A2-3(BA)3-A-A19-

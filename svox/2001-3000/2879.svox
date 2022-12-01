@@ -3,19 +3,4 @@ size = 13 10 16, scale = 0.05, origin = -y
 material 
   colors = A:#4A225D B:#000 C:#FFF D:#C92800
 voxels
-----AAAAA---- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- 
--AAABBBBBAAA- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- 
-ABBBBDDDBBBBA ------------- --AAA---AAA-- -----AAA----- ------------- ------------- ------------- ------------- ------------- ------------- 
-ABBBDDDDDBBBA -BBBB---BBBB- --AAABBBAAA-- -----AAA----- ------------- ------------- ------------- ------------- ------------- ------------- 
-ABBBAAAAABBBA BABBBBBBBBBAB --AAABBBAAA-- ------A------ ------A------ ------A------ -BAAAAAAAAAB- --BB-----BB-- ---BB---BB--- ------------- 
-ABAAAAAAAAABA BAAAAAAAAAAAB --AAAAAAA-A-- --ACCCACCCA-- --ACBCACBCA-- --ACCCACCCA-- --AAAAAAAAA-- ------------- ------------- ------------- 
--AAAAAAAAAAA- -AAAAAAAAAAA- --AAAAAAAAA-- --AAAAAAAAA-- ---AAAAAAA--- ---AAAAAAA--- -----AAA----- -----AAA----- ------------- ------------- 
--AAAAAAAAAAA- -AAAAAAAAAAA- -AAAAAAAAAAA- -AAAAAAAAAAA- --AAAAAAAAA-- --AAAAAAAAA-- ----AAAAA---- ----AAAAA---- -----AAA----- ------------- 
--AAAAAAAAAAA- -AAAAAAAAAAA- -AAAAAAAAAAA- -AAAAAAAAAAA- --AAAAAAAAA-- --AAAAAAAAA-- ---AAAAAAA--- ---AAAAAAA--- ----AAAAA---- -----AAA----- 
--AAAAAAAAAAA- -AAAAAAAAAAA- -AAAAAAAAAAA- -AAAAAAAAAAA- --AAAAAAAAA-- --AAAAAAAAA-- ---AAAAAAA--- ---AAAAAAA--- ----AAAAA---- -----AAA----- 
--AAAAAAAAAAA- -AAAAAAAAAAA- -AAAAAAAAAAA- -AAAAAAAAAAA- --AAAAAAAAA-- --AAAAAAAAA-- ---AAAAAAA--- ---AAAAAAA--- ----AAAAA---- -----AAA----- 
--AAAAAAAAAAA- -AAAAAAAAAAA- -AAAAAAAAAAA- -AAAAAAAAAAA- --AAAAAAAAA-- --AAAAAAAAA-- ----AAAAA---- ----AAAAA---- -----AAA----- ------------- 
--AAAAAAAAAAA- -AAAAAAAAAAA- --AAAAAAAAA-- --AAAAAAAAA-- ---AAAAAAA--- ---AAAAAAA--- -----AAA----- -----AAA----- ------------- ------------- 
--AAAAAAAAAAA- -AAAAAAAAAAA- ---AAAAAAA--- ---AAAAAAA--- ----AAAAA---- ----AAAAA---- ------------- ------------- ------------- ------------- 
---AAAAAAAAA-- --AAAAAAAAA-- ----AAAAA---- ----AAAAA---- ------------- ------------- ------------- ------------- ------------- ------------- 
-----AAAAA---- ----AAAAA---- ------------- ------------- ------------- ------------- ------------- ------------- ------------- ------------- 
+17-5A112-5A8-5A110-9A4-9A6-5A8-5A83-11A2-11A4-7A6-7A7-5A8-5A57-11A2-11A3-9A4-9A5-7A6-7A8-3A10-3A32-3(11A2-)11A3-9A4-9A6-5A8-5A9-3A19-3(3(11A2-)11A3-9A4-9A5-7A6-7A7-5A9-3A6-)3(11A2-)11A3-9A4-9A6-5A8-5A9-3A19-11A2-11A3-9A4-9A5-7A6-7A8-3A10-3A31-AB9ABAB11AB2-7A-A4-2(A3C)A4-2(ACBC)A4-2(A3C)A4-9A41-A3B5A3BABA9BAB2-3A3B3A8-2(A12-)A7-B9AB3-2(2B5-)2B3-2B16-A3B5D3BA-2(4B3-)3A3B3A7-3A83-A4B3D4BA15-3A3-3A7-3A84-3A5B3A118-

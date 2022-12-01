@@ -1,0 +1,6 @@
+model
+size = 6 10 6, scale = 0.05, origin = -y
+material deform = 1, fade = true, lighting = smooth, roughness = 0.3, metalness = 0.6
+  colors = A:#400 B:#E00 C:#600 D:#C00
+voxels
+32-2(2A4-2A46-)2A3-4A2-4A3-2A4-2A16-2C4-2D4-AB3-3AB-2(2A2-2B)-A3B2-A3B3-2B4-B5-2C4-2D4-2A3-4A-2A2-4A2-2A-4A2-4A3-A29-2A3-4A2-4A3-2A4-2A14-

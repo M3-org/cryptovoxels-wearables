@@ -3,32 +3,4 @@ size = 12 14 29, scale = 0.05, origin = -y
 material 
   colors = A:#222 B:#C93 C:#DDD D:#EEE E:#C96 F:#FFF
 voxels
------BBB---- -----BBB---- -----AAA---- -----AAA---- -----AAA---- ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ 
-----BBEEB--- ----BBBBB--- ----AAAAA--- ----AAAAA--- ----AAAAA--- -----AAA---- ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ 
----BBBEEBB-- ---BBBBBBB-- ---AAAAAAA-- ---AAAAAAA-- ---AAAAAAA-- ----AAAAA--- ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ 
---BBBBEEBB-- --BBBBBBBB-- --AAAAAAAA-- --AAAAAAAA-- --AAAAAAAA-- ---AAAAAA--- ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ 
---BBBBEEBBB- --BBBBBBBBB- --AAAAAAAAA- --AAAAAAAAA- --AAAAAAAAA- --AAAAAAAA-- ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ 
--BBBBBEEBBBB -BBBBBBBBBBB -AAAAAAAAAAA -AAAAAAAAAAA -AAAAAAAAAAA --AAAAAAAAA- ---AAAAAA--- ------------ ------------ ------------ ------------ ------------ ------------ ------------ 
--BBBBBEEBBBB -BBBBBBBBBBB -AAAAAAAAAAA -AAAAAAAAAAA -AAAAAAAAAAA --AAAAAAAAA- ---AAAAAA--- ----AAAA---- ------------ ------------ ------------ ------------ ------------ ------------ 
-BBBBBBBBBBBB BBBBBBBBBBBB AAAAAAAAAAAA AAAAAAAAAAAA AAAAAAAAAAAA -AAAAAAAAAA- --AAAAAAA--- ----AAAA---- ------------ ------------ ------------ ------------ ------------ ------------ 
-BBBBBBBBBBBB BBBBBBBBBBBB ABBBBBBBBBBA AAAAAAAAAAAA AAAAAAAAAAAA -AAAAAAAAAA- --AAAAAAA--- ----AAAA---- ------------ ------------ ------------ ------------ ------------ ------------ 
-BBBBBBBBBBBB BBBBBBBBBBBB ABBBBBBBBBBB AAAAAAAAAAAA AAAAAAAAAAAA -AAAAAAAAAA- -AAAAAAAAA-- ---AADDA---- ------------ ------------ ------------ ------------ ------------ ------------ 
-BBBBBBBBBBBB BBBBBBBBBBBB ABBBBBBBBBBB AAAAAAAAAAAA AAAAAAAAAAAA -AAAAAAAAAA- -AAAAAAAAA-- --AAAAAAA--- ------------ ------------ ------------ ------------ ------------ ------------ 
-BBBBBBBBBBB- BBBBBBBBBBB- BBBBBBBBBBB- AAAAAAAAAAA- AAAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAA-- --AADDDDA--- ------------ ------------ ------------ ------------ ------------ ------------ 
-BBBBBBBBBBB- BBBBBBBBBBB- BBBBBBBBBBB- AAAAAAAAAAA- AAAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAA-- --AAAAAAA--- ------------ ------------ ------------ ------------ ------------ ------------ 
--BBBBBBBBB-- -BBBBBBBBB-- -BBBBBBBBB-- -AAAAAAAAA-- -AAAAAAAAA-- -AAAAAAAAA-- -AAAAAAAAA-- --AAAAAAA--- ---DDDDD---- ------------ ------------ ------------ ------------ ------------ 
--BBBBBBBBB-- -BBBBBBBBB-- -BBBBBBBBB-- -AAAAAAAAA-- -AAAAAAAAA-- -AAAAAAAAA-- -AAAAAAAAA-- --AAAAAAA--- ---AAAAA---- ------------ ------------ ------------ ------------ ------------ 
--BBBBBBBBB-- -BBBBBBBBB-- -BBBBBBBBB-- -AAAAAAAAA-- -AAAAAAAAA-- -AAAAAAAAA-- -AAAAAAAAA-- --AAAAAAA--- ---DDDDD---- ------------ ------------ ------------ ------------ ------------ 
--BBBBBBBBB-- -BBBBBBBBB-- -BBBBBBBBB-- -AAAAAAAAA-- -AAAAAAAAA-- -AAAAAAAAA-- -AAAAAAAAA-- --AAAAAAA--- ---AAAAA---- ---AAAAA---- ------------ ------------ ------------ ------------ 
--BBBBBBBBB-- -BBBBBBBBB-- -BBBBBBBBB-- -AAAAAAAAA-- -AAAAAAAAA-- -AAAAAAAAA-- -AAAAAAAAA-- --AAAAAAA--- ---DAAAD---- ---FDDDF---- ------------ ------------ ------------ ------------ 
--BBBBBBBBBB- -BBBBBBBBBB- -BBBBBBBBBB- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- --AAAAAAA--- ---AAAAA---- ---AAAAA---- ------------ ------------ ------------ ------------ 
--BBBBBBBBBB- -BBBBBBBBBB- -BBBBBBBBBB- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- --AAAAAAAAA- --AAAAAAAAA- ---AAAAAA--- ---AAAAAA--- ---AAAAAA--- ----AAAA---- ----AAAA---- 
-BBBBBBBBBBBB BBBBBBBBBBBB BBBBBBBBBBBB BBBBBBBBBBBB AAAAAAAAAAAA AAAAAAAAAAAA -AAAAAAAAAA- -AAACCCCCAA- -AAACCCCCAA- --AACCCCCA-- ---ACCCCA--- ---AAAAAA--- ----AAAA---- ------------ 
-BBBBBBBBBBBB DBBBBBBBBBBD DBBBBBBBBBBF BBBBBBBBBBBB AAAAAAAAAAAA AAAAAAAAAAAA -AAAAAAAAAA- -AAC----CAA- -AAC----CAA- --AC----CA-- ------------ ------------ ------------ ------------ 
-BBBBBBBBBBBB DBBBBBBBBBBD DBBBBBBBBBBF BBBBBBBBBBBB AAAAAAAAAAAA AAAAAAAAAAAA -AAAAAAAAAA- -AAC----CAA- -AAC----CAA- --AC----CA-- ------------ ------------ ------------ ------------ 
-BBBBBBBBBBBB DBBBBBBBBBBD DBBBBBBBBBBF BBBBBBBBBBBB AAAAAAAAAAAA AAAAAAAAAAAA -AAAAAAAAAA- -AAC----CAA- -AAC----CAA- --AC----CA-- ------------ ------------ ------------ ------------ 
-BBBBBBBBBBBB DBBBBBBBBBBD DBBBBBBBBBBF BBBBBBBBBBBB AAAAAAAAAAAA AAAAAAAAAAAA -AAAAAAAAAA- -AAC----CAA- -AAC----CAA- --AC----CA-- ------------ ------------ ------------ ------------ 
-BBBBBBBBBBBB BBBBBBBBBBBB BBBBBBBBBBBB BBBBBBBBBBBB AAAAAAAAAAAA AAAAAAAAAAAA -AAAAAAAAAA- -AAC----CAA- -AAC----CAA- --AC----CA-- ------------ ------------ ------------ ------------ 
--BBBBBBBBBB- -BBBBBBBBBB- -BBBBBBBBBB- -BBBBBBBBBB- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAA-- -AACCCCCCA-- -AACCCCCCA-- --ACCCCCCA-- ------------ ------------ ------------ ------------ 
--BBBBBBBBB-- -BBBBBBBBB-- -BBBBBBBBB-- -BBBBBBBBB-- -AAAAAAAAA-- -AAAAAAAAA-- --AAAAAAA--- --AAAAAAAA-- --AAAAAAAA-- ---AAAAAA--- ------------ ------------ ------------ ------------ 
----BBBBBB--- ---BBBBBB--- ---BBBBBB--- ---BBBBBB--- ---AAAAAA--- ---AAAAAA--- ---AAAAAA--- ---AAAAAA--- ------------ ------------ ------------ ------------ ------------ ------------ 
+3-4(6B6-)3(6A6-)6A76-4(9B3-)9A3-9A4-7A5-8A4-8A5-6A52-4(10B2-)2(10A2-)9A2(3-2A6CA)4-A6CA50-48B4(24A-10A2(2-2AC4-C2A)3-AC4-CA50-12BD10B2D10BF12B)24A-10A2(2-2AC4-C2A)3-AC4-CA50-48B24A-10A2(2-3A5C2A)3-2A5CA5-A4CA6-6A7-4A17-3(10B2-)3(10A2-)10A2(3-9A)4-2(6A6-)6A7-4A8-4A5-3(10B2-)3(10A2-)10A3-7A6-5A7-5A53-3(9B3-)3(9A3-)9A4-7A6-D3AD7-F3DF53-3(9B3-)3(9A3-)9A4-7A6-5A7-5A53-3(9B3-)3(9A3-)9A4-7A6-5D65-3(9B3-)3(9A3-)9A4-7A6-5A65-3(9B3-)3(9A3-)9A4-7A6-5D64-3(11B-)11A-11A2-10A2-9A4-7A75-3(11B-)11A-11A2-10A2-9A4-2A4DA75-24BA11B24A-10A2-9A4-7A75-24BA11B24A-10A2-9A5-2A2DA76-24BA10B25A-10A3-7A7-4A76-24B36A-10A3-7A2(7-4A77-5B2E4B-11B3(-11A)2-9A4-6A)89-4B2E3B3-9B3(3-9A)3-8A100-4B2E2B4-8B3(4-8A)5-6A102-3B2E2B5-7B3(5-7A)6-5A103-2B2EB7-5B3(7-5A)8-3A105-2(3B9-)2(3A9-)3A112-

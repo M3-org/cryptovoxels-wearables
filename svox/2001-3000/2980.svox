@@ -3,4 +3,4 @@ size = 11 10 32, scale = 0.05, origin = -y
 material 
   colors = A:#4A225D B:#000
 voxels
-10(3-2(2AB)2A)19(3-8A)3-10(10AB)3088A
+4-2(2AB)A8(3-2(2AB)2A)3-2(2AB)3084A9(B10A)B20(8A3-)8A

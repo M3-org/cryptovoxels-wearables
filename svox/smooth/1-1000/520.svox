@@ -1,0 +1,6 @@
+model
+size = 21 32 1, scale = 0.05, origin = -y
+material deform = 1, fade = true, lighting = smooth, roughness = 0.3, metalness = 0.6
+  colors = A:#E00 B:#FFF C:#555 D:#00E
+voxels
+11(C20-)22C19A2(2C19B2(2C19A))2C19B2C11D8A2C5(DB)D8A2C4(BD)B2D8B2C5(DB)D8A2C4(BD)B2D8A2C5(DB)D8B2C4(BD)B2D8A2C5(DB)D8A2C4(BD)B2D8B2C5(DB)D8A2C4(BD)B2D8A22C

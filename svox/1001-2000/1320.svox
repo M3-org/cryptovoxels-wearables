@@ -3,11 +3,4 @@ size = 3 24 8, scale = 0.05, origin = -y
 material 
   colors = A:#331919 B:#BBB
 voxels
---- --- B-- B-- B-- A-- A-- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
---- --- --- --- --- --- A-- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
--B- -B- -B- -A- -A- -A- AA- --- --- --- --- --- AA- AA- AA- --- --- --- --- AAA AAA AAA --- --- 
---- --- --- --- --- --- AA- --- --- --- AA- AA- AA- AA- AA- --- --- AAA AAA AAA AAA AAA AAA --- 
--B- -B- -B- -A- -A- -A- -A- AA- AA- AA- AA- AA- AA- AA- AA- AA- AA- AAA AAA AAA AAA AAA AAA AAA 
---- --- --- --- --- --- AA- AA- AA- AA- AA- AA- AA- AA- AA- AA- AA- AAA AAA AAA AAA AAA AAA AAA 
--B- -B- -B- -A- -A- -A- -A- --- --- --- --- -A- -A- -A- --- --- --- AAA AAA AAA AAA AAA AAA --- 
---- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- AA- AAA AAA --- --- 
+9-3(B2-)A2-A107-2A-6A7-3(B2-)3(A2-)A14-2(A2-)A10-18A21-11(2A-)21A-3(B2-)3(A2-)A10(-2A)-21A18-2A10-4(2A-)2A7-18A4-3(B2-)2(A2-)A-2A16-2(2A-)2A13-9A24-A53-

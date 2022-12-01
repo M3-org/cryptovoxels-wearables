@@ -3,11 +3,4 @@ size = 4 31 8, scale = 0.05, origin = -y
 material 
   colors = A:#BBB B:#00B C:#00F D:#D00 E:#00E F:#00D G:#F93 H:#00A
 voxels
--F-- ---- ---- ---- ---- --E- --E- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- 
-FAF- ---- ---- ---- ---- --E- --E- -BBD -BB- -BBD -HB- DDDD ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- 
-FAAB -CCB -CCB -CCB -CCB -CAB -CAB CAAB CAAB CAAB CHAB DAAD -AA- -AA- -AA- -AAG -AAG -AAG -AA- -AA- -AA- -AA- -AA- -AA- -A-- -AA- -A-- -AA- ---- -AA- ---- 
-FAAB EEAB EAAB CAAB CAAB CAAB CAAB CAAB CAAB CAAB CAAB DAAD -AA- -AA- -AAG -AA- -AA- -AA- -AAG -AA- -AA- -AA- -AA- -AA- -AA- -AA- -AA- -AA- -AA- -AA- -AA- 
-FAAB EAAB EAAB CAAB CAAB CAAB CAAB CAAB CAAB CAAB CAAB DAAD -AA- -AA- -AAG -AA- -AA- -AA- -AAG -AA- -AA- -AA- -AA- -AA- -AA- -AA- -AA- -AA- -AA- -AA- -AA- 
-FAAB -CCB -CCB -CCB -CCB -CAB -CAB CAAB CAAB CAAB CAAB DAAD -AA- -AA- -AA- -AAG -AA- -AAG -AA- -AA- -AA- -AA- -AA- -AA- -A-- -AA- -A-- -AA- ---- -AA- ---- 
-FAF- ---- ---- ---- ---- --E- --E- -BBD -BB- -BBD -BB- DDDD ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- 
--F-- ---- ---- ---- ---- --E- --E- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- 
+5-F20-E3-E94-F20-E3-E97-FAF19-E3-E2(2-2BD-2B)-4D76-F2A4(B-2C)2(B-CA)4(BC2A)BD2AD-3(2A2-)2(2AG-2A2-)5(2A2-)A3-2A2-A3-2A6-2A5-F2(2ABE)8(2ABC)2ABD2AD-2(2A2-)2(2AG-3(2A2-))8(2A2-)2A-F2AB2EABE8(2ABC)2ABD2AD-2(2A2-)2(2AG-3(2A2-))8(2A2-)2A-F2A4(B-2C)2(B-CA)3(BC2A)BCHABD2AD-3(2A2-)3(2AG-)6(2A2-)A3-2A2-A3-2A6-2A5-FAF19-E3-E2-2BD-2B2-2BD-HB-4D76-

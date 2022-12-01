@@ -3,13 +3,4 @@ size = 12 5 10, scale = 0.05, origin = -y
 material 
   colors = A:#FC3
 voxels
------------- ------------ AAA-AAAA-AAA AAA-AAAA-AAA -A---AA---A- 
---AAAAAAAA-- --AAAAAAAA-- AAAAAAAAAAAA AAA-AAAA-AAA -A---AA---A- 
---AAAAAAAA-- --AAAAAAAA-- -AAAAAAAAAA- -AA--AA--AA- ------------ 
---AAAAAAAA-- --AAAAAAAA-- --AAAAAAAA-- ------------ ------------ 
---AAAAAAAA-- --AAAAAAAA-- --AAAAAAAA-- ------------ ------------ 
---AAAAAAAA-- --AAAAAAAA-- --AAAAAAAA-- ------------ ------------ 
----AAAAAA--- ---AAAAAA--- ------------ ------------ ------------ 
----AAAAAA--- ---AAAAAA--- ------------ ------------ ------------ 
----AAAAAA--- ---AAAAAA--- ------------ ------------ ------------ 
-----AAAA---- ------------ ------------ ------------ ------------ 
+2-A3-2A3-A24-3A-4A-6A-4A-3A4-4A55-2(6A6-6A42-)6A6-6A41-3(2(8A4-)8A28-)8A4-8A3-10A3(2-2A)15-8A4-8A2-15A-4A-3A-A3-2A3-A-

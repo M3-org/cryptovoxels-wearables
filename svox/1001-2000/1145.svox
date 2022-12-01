@@ -3,19 +3,4 @@ size = 8 9 16, scale = 0.05, origin = -y
 material 
   colors = A:#EEE B:#CB1B45 C:#111 D:#C1328E
 voxels
---AAAA-- --CCCC-- --BBBB-- -------- -------- -------- -------- -------- -------- 
--AAADAA- -CAADAC- -BBAABB- ---BB--- -------- -------- -------- -------- -------- 
-AAADAAAA CAAAAAAC -BBAABB- ---BB--- -------- -------- -------- -------- -------- 
-AAAADAAA CAAAAAAC CBBAABBC --BBBB-- -------- -------- -------- -------- -------- 
-AAADAAAA CAAAAAAC CBBAABBC -BBBBBB- ---CC--- -------- -------- -------- -------- 
-AAAADAAA CAAAAAAC CBBAABBC CBBBBBBC -CCCCCC- -------- -------- -------- -------- 
-AAADAAAA CAAAAA-C -BBAABB- -BCAACB- --CBBC-- ---BB--- -------- -------- -------- 
--AAADAA- -CAAAAC- -CBAABC- --CAAC-- --BBBB-- ---CC--- ---BB--- -------- -------- 
--AADAAA- -CAAAAC- -CBAABC- --BAAB-- --CCCC-- ---CC--- ---CC--- ---CC--- -------- 
--AAADAA- -CAAAAC- -CB-ABC- -BBA-AB- --BBBB-- --BBBB-- --BBBB-- --CCCC-- -------- 
-AAADAAAA CAADAAAC -BBDABB- -BBAAAB- -BBBBBB- -B----B- -BAAAAB- -C----C- -------- 
-AAAADAAA CAA-AAAC -BA-AAB- -BA--AB- -B-A--B- B------B BAAAAAAB C------C -------- 
-AAADAAAA CAA-AAAC -BA--AB- -B----B- -B-D--B- B--D--AB BAAAAAAB C------C -------- 
-AAADDAAA C--DD--C -BBABBB- --BABB-- -BBAABB- -BBBBBB- -BBAABB- -CC--CC- -------- 
--AADDAA- -CCCCCC- -------- -------- -------- -------- --BBBB-- --CBBC-- ---BB--- 
--------- -------- -------- -------- -------- -------- -------- -------- ---BB--- 
+10-4A4-4C4-4B109-2B4-2A2D2A2-6C35-4B4-C2BC5-2B3-3A2D3AC2-2D2-C-2BA3B3-BA2B3-2B2A2B2-6B2-2B2A2B2(2-2C)9-3AD4AC2A-3AC-BA2-AB2-B4-B2-B-D2-B-B2-D2-A2B6ABC6-C8-4AD3AC2A-3AC-BA-2AB2-BA2-AB2-B-A2-B-B6-2B6ABC6-C8-3AD4AC2AD3AC-2BDA2B2-2B3AB2-6B2-B4-B2-B4AB2-C4-C10-3AD2A2-C4AC2-CB-ABC2-2BA-AB3-3(4B4-)4C11-2AD3A2-C4AC2-CB2ABC3-B2AB4-4C5-2(2C6-)2C12-3AD2A2-C4AC2-CB2ABC3-C2AC4-4B5-2C6-2B19-3AD4AC5A-C-2B2A2B2-BC2ACB3-C2BC5-2B27-4AD3AC6A2C2B2A2B2C6BC-6C33-3AD4AC6A2C2B2A2BC-6B4-2C35-4AD3AC6A2C2B2A2BC2-4B42-3AD4AC6AC-2B2A2B4-2B44-3AD2A2-C2ADAC2-2B2A2B4-2B43-

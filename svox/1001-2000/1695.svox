@@ -3,12 +3,4 @@ size = 22 9 9, scale = 0.05, origin = -y
 material 
   colors = A:#FC3 B:#000 C:#0FF
 voxels
----------------------- ---------------------- -B--------B----------- -B--------B----------- -B--------B----------- -B--------B----------- -B--------B----------- ---------------------- ---------------------- 
----------------------- -B--------B----------- -B--------B----------- AAAAAAAAAAB----------- AAAAAAAAAAB----------- AAAAAAAAAAB----------- -B--------B----------- -B--------B----------- ---------------------- 
--B--------B----------- -B--------B----------- AAAAAAAAAAB--------B-- AAAAAAAAAA---------B-- -CCAAAAAAAAAAAAAAAAB-- AAAAAAAAAA---------B-- AAAAAAAAAAB--------B-- -B--------B----------- -B--------B----------- 
--B--------B----------- AAAAAAAAAAB----------- AAAAAAAAAA---------B-- -CCAAAAAAAAAAAAAAAAAAA -CCAAAAAAAAAAAAAAAAAAA -CCAAAAAAAAAAAAAAAAAAA AAAAAAAAAA---------B-- AAAAAAAAAAB----------- -B--------B----------- 
--B--------B----------- AAAAAAAAAAB----------- -CCAAAAAAAAAAAAAAAAB-- -CCAAAAAAAAAAAAAAAAAAA -CCAAAAAAAAAAAAAACCCC- -CCAAAAAAAAAAAAAAAAAAA -CCAAAAAAAAAAAAAAAAB-- AAAAAAAAAAB----------- -B--------B----------- 
--B--------B----------- AAAAAAAAAAB----------- AAAAAAAAAA---------B-- -CCAAAAAAAAAAAAAAAAAAA -CCAAAAAAAAAAAAAAAAAAA -CCAAAAAAAAAAAAAAAAAAA AAAAAAAAAA---------B-- AAAAAAAAAAB----------- -B--------B----------- 
--B--------B----------- -B--------B----------- AAAAAAAAAAB--------B-- AAAAAAAAAA---------B-- -CCAAAAAAAAAAAAAAAAB-- AAAAAAAAAA---------B-- AAAAAAAAAAB--------B-- -B--------B----------- -B--------B----------- 
----------------------- -B--------B----------- -B--------B----------- AAAAAAAAAAB----------- AAAAAAAAAAB----------- AAAAAAAAAAB----------- -B--------B----------- -B--------B----------- ---------------------- 
----------------------- ---------------------- -B--------B----------- -B--------B----------- -B--------B----------- -B--------B----------- -B--------B----------- ---------------------- ---------------------- 
+45-4(B8-B12-)B8-B78-B8-B12-B8-3(B11-10A)2(B12-B8-)B34-B8-B12-B8-B11-10AB8-B2-10A9-B3-2C16AB2-10A9-B2-10AB8-B3-2(B8-B12-)B8-2(B11-10A)9-B3-2(2C19A-)2C29A9-B2-10A2(B12-B8-)B11-10AB12-2C16AB3-2C19A-2C14A4C2-2C19A-2C16AB2-10A2(B12-B8-)2(B11-10A)9-B3-2(2C19A-)2C29A9-B2-10A3(B12-B8-)B11-10AB8-B2-10A9-B3-2C16AB2-10A9-B2-10AB8-B3-B8-B12-B8-B34-B8-B12-B8-3(B11-10A)2(B12-B8-)B78-4(B8-B12-)B8-B55-

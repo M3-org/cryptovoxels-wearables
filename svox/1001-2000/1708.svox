@@ -3,34 +3,4 @@ size = 4 28 31, scale = 0.05, origin = -y
 material 
   colors = A:#00F B:#222 C:#E00 D:#FFF
 voxels
----- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- -BB- ---- ---- ---- ---- ---- ---- 
----- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- CAAC CAAC -BB- ---- ---- ---- ---- ---- 
----- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- CAAC CAAC CAAC CAAC -BB- ---- ---- ---- ---- 
----- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- CAAC CAAC CAAC CAAC CAAC CAAC -BB- ---- ---- ---- 
----- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- DAAD DAAD DAAD CAAC CAAC CAAC CAAC -BB- ---- ---- ---- 
----- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- DAAD DAAD DAAD DAAD DAAD CAAC CAAC CAAC CAAC -BB- ---- ---- 
----- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- AAAA AAAA AAAA DAAD DAAD DAAD DAAD CAAC CAAC BAAB -BB- ---- ---- 
----- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- AAAA AAAA AAAA AAAA DAAD DAAD BAAB BAAB BAAB CAAC CAAC -BB- ---- 
----- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- AAAA AAAA BAAB BAAB BAAB DAAD DAAD CAAC CAAC CAAC -BB- ---- 
----- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- BAAB AAAA AAAA DAAD DAAD DAAD DAAD CAAC CAAC -BB- ---- 
----- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- AAAA AAAA AAAA AAAA DAAD DAAD DAAD CAAC CAAC CAAC -BB- 
----- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- AAAA AAAA AAAA AAAA DAAD DAAD DAAD DAAD CAAC CAAC -BB- 
----- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- AAAA AAAA AAAA DAAD BAAB BAAB BAAB BAAB BAAB -BB- 
----- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- BAAB BAAB BAAB BAAB DAAD DAAD DAAD CAAC CAAC -BB- 
----- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- AAAA AAAA AAAA DAAD DAAD DAAD DAAD CAAC CAAC -BB- 
----- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- AAAA AAAA AAAA DAAD DAAD DAAD DAAD CAAC CAAC -BB- 
----- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- AAAA AAAA AAAA DAAD DAAD DAAD DAAD CAAC CAAC -BB- 
----- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- -BB- BAAB BAAB BAAB BAAB DAAD DAAD CAAC CAAC CAAC -BB- 
----- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- AAAA AAAA AAAA AAAA DAAD BAAB BAAB BAAB BAAB BAAB -BB- 
----- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- AAAA AAAA AAAA AAAA DAAD DAAD DAAD DAAD CAAC CAAC -BB- ---- 
----- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- BAAB BAAB AAAA AAAA DAAD DAAD DAAD DAAD CAAD CAAC CAAC -BB- ---- 
----- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -BB- AAAA AAAA AAAA BAAB BAAB DAAD DAAD DAAD CAAD CAAC CAAC CAAC -BB- ---- 
----- ---- -BB- -BB- -BB- -BB- ---- ---- ---- ---- ---- ---- -BB- AAAA AAAA AAAA AAAA AAAA DAAD BAAB BAAB DAAD CAAC CAAC CAAC -BB- ---- ---- 
----- -BB- CAAC DAAD BAAB DAAD -BB- -BB- -BB- -BB- -BB- -BB- AAAA BAAB AAAA AAAA AAAA DAAD DAAD DAAD DAAD BAAB BAAB CAAC CAAC -BB- ---- ---- 
--BB- CAAC CAAC BAAB DAAD DAAD DAAD BAAB DAAD AAAA BAAB AAAA AAAA AAAA BAAB AAAA DAAD DAAD DAAD DAAD CAAC CAAC CAAC BAAB -BB- ---- ---- ---- 
----- -BB- BAAB CAAC CAAC DAAD DAAD BAAB DAAD DAAD DAAD BAAB DAAD DAAD DAAD BAAB DAAD DAAD DAAD CAAC CAAC CAAC CAAC -BB- ---- ---- ---- ---- 
----- ---- -BB- CAAC CAAC CAAC BAAB CAAC CAAC DAAD DAAD BAAB DAAD DAAD DAAD DAAD BAAB DAAD CAAC CAAC CAAC CAAC -BB- ---- ---- ---- ---- ---- 
----- ---- ---- -BB- CAAC CAAC BAAB CAAC CAAC CAAC CAAC CAAC BAAB CAAC CAAC CAAC CAAC BAAB CAAC CAAC CAAC -BB- ---- ---- ---- ---- ---- ---- 
----- ---- ---- ---- -BB- -BB- BAAB CAAC CAAC CAAC CAAC CAAC BAAB CAAC CAAC CAAC CAAC CAAC BAAB -BB- -BB- ---- ---- ---- ---- ---- ---- ---- 
----- ---- ---- ---- ---- ---- -BB- -BB- -BB- CAAC CAAC CAAC CAAC BAAB CAAC CAAC -BB- -BB- -BB- ---- ---- ---- ---- ---- ---- ---- ---- ---- 
----- ---- ---- ---- ---- ---- ---- ---- ---- -BB- -BB- -BB- -BB- -BB- -BB- -BB- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- 
+37-6(2B2-)2B74-2(2B2-)2B-C3(2A2C)2ACB2ABC2A2C2AC-2(2B2-)2B54-2B2-2B-2(B2ABC4(2A2C)2AC)B2AB-2B2-2B42-2B-C2A2C2ACB2ABC4(2A2C)2ACB2ABC3(2A2C)2ACB2ABC2(2A2C)2AC-2B34-2B-C2(2A2C)2ACB2ABC2A2C2ACD2A2D2ADB2ABD3(2A2D)2ADB2ABD2ADC3(2A2C)2AC-2B26-2B-B2ABC2A2C2ACD2A2D3(2ADB2ABD2(2A2D))2ADC3(2A2C)2AC-2B18-2B-C2A2C2ACB2ABD2(2A2D)2ADB2ABD2AD4AB2AB12AB2AB4AD3(2A2D)2ADC2(2A2C)2ACB2AB-2B18-2B-C2ACD2ADB2ABD2AD-5(2B2-)2B-4AB2AB12AD3(2A2D)2ADB2A2B2ABC2A2C2AC-2B18-3(2B2-)2B26-2B-20AD2ADB2A2B2ABD2ADC2(2A2C)2AC-2B62-2B-12AB2A2B2ABD2(2A2D)2(2ADC)2(2A2C)2AC-2B62-2B-B2A2B2AB8AD3(2A2D)2(2ADC)2A2C2AC-2B66-2B-16AD3(2A2D)2ADC2A2C2AC-2B70-2B-16AD2ADB4(2A2B)2AB-2B66-2B2-2B-B3(2A2B)2ABD2A2D2ADC2(2A2C)3(2AC-2B70-2B-12AD3(2A2D)2ADC2A2C)2AC-2B70-2B-B3(2A2B)2ABD2(2A2D)2ADC2A2C2AC-2B70-2B-12AD2ADB4(2A2B)2AB-2B66-2B-16AD3(2A2D)2ADC2A2C2AC-2B66-2B-16AD2(2A2D)2ADC2(2A2C)2AC-2B66-2B-B2AB8AD3(2A2D)2ADC2A2C2AC-2B66-2B-8AB2(2A2B)2ABD2A2D2ADC2(2A2C)2AC-2B62-2B-16AD2A2D2ADB2(2A2B)2ABC2A2C2AC-2B62-2B-12AD3(2A2D)2ADC2A2C2ACB2AB-2B70-2B-D4(2A2D)2ADC3(2A2C)2AC-2B74-2B-D2(2A2D)2ADC3(2A2C)2AC-2B82-2B-C5(2A2C)2AC-2B86-2B-C3(2A2C)2AC-2B94-2B-C2A2C2AC-2B102-2B2-2B25-

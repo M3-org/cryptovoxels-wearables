@@ -1,0 +1,6 @@
+model
+size = 10, scale = 0.05, origin = -y
+material deform = 1, fade = true, lighting = smooth, roughness = 0.3, metalness = 0.6
+  colors = A:#FFC
+voxels
+22-6A3-2A4-2A2-A-4A-A3(2-8A)2-2(2A-)2A3-6A24-6A4-6A3-2(8A2-)8A3-6A5-4A25-6A4-6A2-3(9A-)9A2-8A3-6A15-4A5-7A2-8A-49A2(2-8A)5(4-4A4-8A-60A-8A2-8A)12-2(8A2-)39A-8A2-8A3-7A-

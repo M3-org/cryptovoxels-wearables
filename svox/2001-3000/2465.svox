@@ -3,19 +3,4 @@ size = 16 8 16, scale = 0.05, origin = -y
 material 
   colors = A:#EEE B:#FF0 C:#0F3 D:#D00 E:#93F F:#00E G:#E00 H:#FF6 I:#60F
 voxels
-DDDDDDDDDDDDDDDD ---------------- ---------------- ---------------- ---------------- ---------------- ---------------- ---------------- 
-DBBBBBBBBBBBBBBD -BBBBBBBBBBBBBB- ---------------- ---------------- ---------------- ---------------- ---------------- ---------------- 
-DBBBBBBBBBBBBBBD -BAAAAAAAAAAAAB- --EEEEEEEEEEEE-- ---------------- ---------------- ---------------- ---------------- ---------------- 
-DBBBBBBBBBBBBBBD -BAAAAAAAAAAAAB- --EAAAAAAAAAAE-- ---FFFFFFFFFF--- ---------------- ---------------- ---------------- ---------------- 
-DBBBBBBBBBBBBBBD -BAAAAAAAAAAAAB- --EAAAAAAAAAAE-- ---FAAAAAAAAF--- ----CCCCCCCC---- ---------------- ---------------- ---------------- 
-DBBBBBBBBBBBBBBD -BAAAAAAAAAAAAB- --EAAAAAAAAAAE-- ---FAAAAAAAAF--- ----CCCCCCCC---- -----GGGGGG----- ---------------- ---------------- 
-DBBBBBBBBBBBBBBD -BAAAAAAAAAAAAB- --EAAAAAAAAAAE-- ---FAAAAAAAAF--- ----CCCCCCCC---- -----GGGGGG----- ------HHHH------ ---------------- 
-DBBBBBBBBBBBBBBD -BAAAAAAAAAAAAB- --EAAAAAAAAAAE-- ---FAAAAAAAAF--- ----CCCCCCCC---- -----GGGGGG----- ------HHHH------ -------II------- 
-DBBBBBBBBBBBBBBD -BAAAAAAAAAAAAB- --EAAAAAAAAAAE-- ---FAAAAAAAAF--- ----CCCCCCCC---- -----GGGGGG----- ------HHHH------ -------II------- 
-DBBBBBBBBBBBBBBD -BAAAAAAAAAAAAB- --EAAAAAAAAAAE-- ---FAAAAAAAAF--- ----CCCCCCCC---- -----GGGGGG----- ------HHHH------ ---------------- 
-DBBBBBBBBBBBBBBD -BAAAAAAAAAAAAB- --EAAAAAAAAAAE-- ---FAAAAAAAAF--- ----CCCCCCCC---- -----GGGGGG----- ---------------- ---------------- 
-DBBBBBBBBBBBBBBD -BAAAAAAAAAAAAB- --EAAAAAAAAAAE-- ---FAAAAAAAAF--- ----CCCCCCCC---- ---------------- ---------------- ---------------- 
-DBBBBBBBBBBBBBBD -BAAAAAAAAAAAAB- --EAAAAAAAAAAE-- ---FFFFFFFFFF--- ---------------- ---------------- ---------------- ---------------- 
-DBBBBBBBBBBBBBBD -BAAAAAAAAAAAAB- --EEEEEEEEEEEE-- ---------------- ---------------- ---------------- ---------------- ---------------- 
-DBBBBBBBBBBBBBBD -BBBBBBBBBBBBBB- ---------------- ---------------- ---------------- ---------------- ---------------- ---------------- 
-DDDDDDDDDDDDDDDD ---------------- ---------------- ---------------- ---------------- ---------------- ---------------- ---------------- 
+16-16D96-16D112-D14BD-14B97-D14BD-B12AB3-12E82-D14BD-B12AB3-E10AE5-10F67-D14BD-B12AB3-E10AE5-F8AF7-8C52-D14BD-B12AB3-E10AE5-F8AF7-8C9-6G37-D14BD-B12AB3-E10AE5-F8AF7-8C9-6G11-4H22-2(D14BD-B12AB3-E10AE5-F8AF7-8C9-6G11-4H13-2I7-)D14BD-B12AB3-E10AE5-F8AF7-8C9-6G11-4H22-D14BD-B12AB3-E10AE5-F8AF7-8C9-6G37-D14BD-B12AB3-E10AE5-F8AF7-8C52-D14BD-B12AB3-E10AE5-10F67-D14BD-B12AB3-12E82-D14BD-14B97-

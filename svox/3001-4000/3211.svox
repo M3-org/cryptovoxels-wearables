@@ -3,27 +3,4 @@ size = 4 24 24, scale = 0.05, origin = -y
 material 
   colors = A:#008 B:#800 C:#444 D:#777 E:#555 F:#AAA G:#300 H:#222 I:#00E
 voxels
----- ---- ---- ---- ---- ---- ---- ---- ---- -B-- -B-- -B-- -B-- -B-- -B-- ---- ---- ---- ---- ---- ---- ---- ---- ---- 
----- ---- ---- ---- ---- ---- ---- -B-- -B-- --B- --B- --B- --B- --B- --B- -B-- -B-- ---- ---- ---- ---- ---- ---- ---- 
----- ---- ---- ---- ---- -B-- -B-- --B- --B- --C- --D- --D- --C- --C- --H- --H- --B- -B-- -B-- ---- ---- ---- ---- ---- 
----- ---- ---- ---- -B-- --B- --B- --C- --H- --C- --C- --D- --C- --H- --C- --H- --C- --B- --B- -B-- ---- ---- ---- ---- 
----- ---- ---- -B-- --B- --D- --C- --H- --H- --DH --DC --DD --DD --DD --DC --C- --D- --D- --C- --B- -B-- ---- ---- ---- 
----- ---- -B-- --B- --F- --F- --F- --DH --DC --AB --AB --AB --AB --AB --AB --DC --DD --C- --C- --D- --B- -B-- ---- ---- 
----- ---- -B-- --B- --D- --C- --DD --AF --AF --AB --AB --AB --AB --AB --AB --AB --AB --DD --D- --D- --B- -B-- ---- ---- 
----- -B-- --B- --D- --F- --DC --AB -CIB -CIB --AA --AA --AA --AA --AE --AA -CIB -CIB --AB --CC --C- --C- --B- -B-- ---- 
----- -B-- --F- --F- --C- --DF -CIF CGIF CGIA -CIA --AA --AA --AA --AE -CAA CGIA CGIB -CIB --CC --C- --C- --C- -B-- ---- 
--B-- --B- --D- --D- --DC --AB --AB G-AA G-AE --AE --AA --AA --AE --AE --AA G-AA G-AA --AB --AC --DH --C- --H- --C- -B-- 
--B-- --F- --D- --C- --DD --AF --AF G-AF G-AA --AA --AE --AE --AE --AE --AE G-AA G-AA --AB --AB --DC --H- --H- --C- -B-- 
--B-- --B- --F- --F- --DF --AB --AF G-AA G-AA --AA --AA --AE --AE --AE --AE G-AE G-AE --AB --AB --DH --C- --C- --B- -B-- 
--B-- --B- --C- --C- --DC --AB --AB G-AA G-AA --AA --AA --AE --AE --AE --AE G-AE G-AE --AB --AB --DC --H- --C- --C- -B-- 
--B-- --B- --D- --F- --DD --AB --AF G-AF G-AA --AA --AE --AE --AE --AE --AE G-AA G-AA --AB --AB --DC --H- --C- --B- -B-- 
--B-- --F- --F- --C- --DF --AF --AB G-AA G-AE --AE --AA --AA --AE --AE --AA G-AA G-AA --AB --AC --DD --C- --D- --B- -B-- 
----- -B-- --B- --C- --D- --DC -CIB CGIB CGIA -CIA --AA --AA --AA --AE -CAA CGIA CGIB -CIB --DD --D- --D- --B- -B-- ---- 
----- -B-- --F- --F- --C- --DD --AF -CIF -CIF --AA --AA --AA --AA --AE --AA -CIB -CIB --AB --DC --C- --D- --B- -B-- ---- 
----- ---- -B-- --B- --D- --F- --DC --AB --AC --AC --AB --AB --AB --AB --AB --AB --AB --DD --D- --C- --B- -B-- ---- ---- 
----- ---- -B-- --B- --C- --H- --C- --DH --DH --AC --AB --AB --AB --AB --AC --DC --DD --C- --C- --D- --B- -B-- ---- ---- 
----- ---- ---- -B-- --B- --C- --H- --C- --C- --DC --DC --DD --DD --DC --HH --H- --C- --H- --C- --B- -B-- ---- ---- ---- 
----- ---- ---- ---- -B-- --B- --B- --C- --H- --C- --D- --C- --D- --D- --H- --C- --H- --C- --C- -B-- ---- ---- ---- ---- 
----- ---- ---- ---- ---- -B-- -B-- --B- --B- --D- --D- --C- --C- --D- --C- --C- --B- -B-- -B-- ---- ---- ---- ---- ---- 
----- ---- ---- ---- ---- ---- ---- -B-- -B-- --B- --B- --B- --B- --B- --B- -B-- -B-- ---- ---- ---- ---- ---- ---- ---- 
----- ---- ---- ---- ---- ---- ---- ---- ---- -B-- -B-- -B-- -B-- -B-- -B-- ---- ---- ---- ---- ---- ---- ---- ---- ---- 
+41-5(B3-)B71-5(B3-)B67-B3-B4-5(B3-)B2-B3-B51-B3-B4-2(B3-)2(D3-)2(C3-)D2(3-C)3-B2-B3-B39-B4-2(B3-)C3-H2(3-C3-D)3-D2(3-H3-C)3-C2-B31-B4-B3-C3-H2(3-C)3-2(DC2-)2(2D2-)DC2-2H2-2(H3-C3-)B2-B23-B4-B3-C3-H3-C3-2(DH2-)AC4(2-AB)2-AC2-DC2-2D2-2(C3-)D3-B2-B19-B4-B3-D3-F3-DC2-AB2(2-AC)7(2-AB)2-2D2-D3-C3-B2-B15-B4-2(F3-)C3-2D2-A2(F-CI)F4(2-2A)2-AE2-2A2(-CIB)2-AB2-DC2-C3-D3-B2-B11-B4-B3-C2(3-D)C-C2(IBCG)IA-CIA3(2-2A)2-AE-C2ACGIACGIB-CIB2-2D2-2(D3-)B2-B7-B4-2(F3-)C3-D2(F2-A)BG-2AG-2(AE2-)2(2A2-)2(AE2-)2(2AG-)2A2-AB2-AC2-2D2-C3-D3-B2-B3-B4-B3-D3-F3-2D2-AB2-2(AFG-)2(2A2-)4(AE2-)AE2(G-2A)2(2-AB)2-DC2-H3-C3-B2-B3-B4-B2(3-C)3-DC2(2-AB)2(G-2A)2(2-2A)4(2-AE)2(G-AE)2(2-AB)2-DC2-H2(3-C)2-B3-B4-B2(3-F)3-DF2-AB2-AF2(G-2A)2(2-2A)4(2-AE)2(G-AE)2(2-AB)2-DH2-2(C3-)B2-B3-B4-F3-D3-C3-2D2(2-AF)G-AFG-2(2A2-)4(AE2-)AE2(G-2A)2(2-AB)2-DC2-2(H3-)C2-B3-B4-B3(3-D)C2(2-AB)G-2AG-2(AE2-)2(2A2-)2(AE2-)2(2AG-)2A2-AB2-AC2-DH2-C3-H3-C2-B7-B4-2(F3-)C3-DF-C2(IFCG)IA-CIA3(2-2A)2-AE-C2ACGIACGIB-CIB2-2C2-2(C3-)C2-B11-B4-B3-D3-F3-DC2-A2(B-CI)B4(2-2A)2-AE2-2A2(-CIB)2-AB2-2C2-2(C3-)B2-B15-B4-B3-D3-C3-2D2(2-AF)8(2-AB)2-2D2-2(D3-)B2-B19-B4-B3(3-F)3-DH2-DC6(2-AB)2-DC2-2D2-2(C3-)D3-B2-B23-B4-B3-D3-C2(3-H)3-DH2-DC3(2-2D)2-DC2-C2(3-D)3-C3-B2-B31-B4-2(B3-)C3-H2(3-C)3-D2(3-C3-H)3-C2(3-B)2-B39-B3-B4-2(B3-)C2(3-D)2(3-C)2(3-H)3-B2-B3-B51-B3-B4-5(B3-)B2-B3-B30-

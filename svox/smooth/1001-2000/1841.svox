@@ -1,0 +1,6 @@
+model
+size = 3 32 13, scale = 0.05, origin = -y
+material deform = 1, fade = true, lighting = smooth, roughness = 0.3, metalness = 0.6
+  colors = A:#111 B:#777 C:#222 D:#EEE E:#200 F:#FFF G:#888 H:#800 I:#400 J:#A00 K:#700 L:#555 M:#DDD N:#500 O:#0E0 P:#444 Q:#AAA
+voxels
+16-A95-C8-2(A2-)A80-2(A2-)A11-A76-3C-A91-CAC-5(A2-)4(D2-)M2-M5-M2(2-D)2(2-F2-D)2(2-D)2(2-F)2-D8-C-3EKHN3ENHKAC2(2AB)A-2(A2-)3(B2-)G6(2-B)2(2-G)3(2-B)2-G2(2-B)2-G2-P2-D4-EH2ECE2HIECEJCHACAOCOACA-2(2(C2-)3(A2-))8(A2-)C2-A2-L2(2-G)2-F2-C-3EJIK3EIHJAC2(2AB)A-2(A2-)B2(2-G)6(2-B)2(2-L2-B)2-B2-Q4(2-B)2-G2-D19-CAC-5(A2-)F4(2-D)5(2-F)2-D2(2-F)5-D2(2-F)2-D2-F22-3C-A92-2(A2-)A11-A77-C8-2(A2-)A80-A79-

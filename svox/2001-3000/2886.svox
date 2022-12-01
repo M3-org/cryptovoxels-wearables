@@ -3,16 +3,4 @@ size = 8 7 13, scale = 0.05, origin = -y
 material 
   colors = A:#4A225D
 voxels
---AAA--- --AAA--- -------- -------- -------- -------- -------- 
--AAAAA-- -AAAAA-- -------- -------- -------- -------- -------- 
-AAAAAAA- AAAAAAA- -------- -------- -------- -------- -------- 
-AAAAAAA- AAAAAAA- -------- -------- -------- -------- -------- 
-AAAAAAA- AAAAAAA- -------- -------- -------- -------- -------- 
--AAAAAA- -AAAAAA- -------- -------- -------- -------- -------- 
---AAAAA- --AAAAA- -------- -------- -------- -------- -------- 
---AAAAA- --AAAAA- -------- -------- -------- -------- -------- 
---AAAAAA --AAAAAA ---AAAAA ---AAAAA ---AAAAA ---AAAAA ---AAAAA 
----AAAAA ---AAAAA ---AAAAA ---AAAAA ---AAAAA ---AAAAA ---AAAAA 
----AAAAA ---AAAAA ---AAAAA ---AAAAA ---AAAAA ---AAAAA ---AAAAA 
----AAAAA ---AAAAA ---AAAAA ---AAAAA ---AAAAA ---AAAAA ---AAAAA 
----AAAAA ---AAAAA ---AAAAA ---AAAAA ---AAAAA ---AAAAA ---AAAAA 
+28(3-5A)2(2-6A)5(3-5A)2-5A3-5A43-5A3-5A42-6A2-6A3(41-7A-7A)42-5A3-5A44-3A5-3A43-

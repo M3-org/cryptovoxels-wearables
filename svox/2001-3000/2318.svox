@@ -3,20 +3,4 @@ size = 1 13 18, scale = 0.05, origin = -y
 material 
   colors = A:#222
 voxels
-- - A A A A - - - - - - - 
-- A A A A A A - - - - - - 
-A A A A - A A - - - - - - 
-A A A - A A - - - - - - - 
-A A A - A - - - - - - - - 
-A A A - - - - - - - - - - 
-A A A A A A A - - - - - - 
-A A A - A A A A - - - - - 
-- A A A A A A A A A - - - 
-A A A A A A A A A A A A - 
-A A A A A A A A A A A A A 
-- A A A A A A A - A A A - 
-A A A A A A A A A A A - - 
-A A A A A A A A A A A A - 
-- A A A A A A A - A A A A 
-A A A A A A A A A A A A - 
-A A A A A A 
+3-4A7-6A6-8A5-12A2-7A-16A-11A3-7A-3A-25A2-9A3-3A-4A5-7A6-3A10-3A-A8-3A-2A7-4A-2A7-6A6-

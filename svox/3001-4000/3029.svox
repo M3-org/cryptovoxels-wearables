@@ -3,33 +3,4 @@ size = 2 31 30, scale = 0.05, origin = -y
 material 
   colors = A:#F5F5BF B:#444 C:#500 D:#E00 E:#B00 F:#A00 G:#FCC
 voxels
--- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA AB AB BB BB BB AA AA AA AA AA AA BA AA 
--- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA BB BA BA AA AB AA AB AA AA BA BA BB AA 
--- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA AA AA BA BA BA AA BB BB BB BB AB AB AA 
--- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA AB AB AB AB AB AA BB BB BB BB BB BB AA 
--- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA BB BA BA BA BB AA BB AA AA BA BA BB AA 
--- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA AB BB AB AB AB AA AA AA AA AA AA BA AA 
--- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA AA AA BA AA AA AA BA AA AA AC AC AA AA 
--- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA AB AB AB BB AB AA BA BA BC BE BF BC AA 
--- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA BA BA BA BA BB AA BA AC AE AD BD BC AA 
--- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA AA AA AB AB AA AA AC AE AD BD BC AA AA 
--- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA BA BA BA BA BB AA AA AC BD BD AD AC AA 
--- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA AB AB BB AB BB AA AA AA AC BD BG AC AA 
--- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA BA BA BA BA BA AA BA AA AA AC BC BA AA 
--- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA AB AB AB AB AB AA BA BA BA BA BA BA AA 
-BB BB BB BB BB BB BB BB BB BB BB BB BB BB BB BB BB AA AA AA BB BA BB AA BB BA BA BA BA BB AA 
-BB BB BB BB BB BB BB BB BB BB BB BB BB BB BB BB BB AA AA AA BB AB BB AA BB AB AB AB AB BB AA 
--- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA BA BA BA BA BA AA AB AB AB AB AB AB AA 
--- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA AB AB AB AB AB AA AB AA AA CB CB AA AA 
--- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA BA BA BB BA BB AA AA AA CB DB GA CA AA 
--- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA AB AB AB AB BB AA AA CA DB DB DA CA AA 
--- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA AA AA BA BA AA AA CB EA DA DB CB AA AA 
--- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA AB AB AB AB BB AA AB CB EB DB DB CB AA 
--- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA BA BA BA BB BA AA AB AA CA EA FA CA AA 
--- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA AA AA AB AA AA AA AA AA AA CA CA AB AA 
--- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA BA BB BA BA BA AA AB AA AA AB AB AB AA 
--- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA BB AB AB AB BB AA AB AB AB AB AB AB AA 
--- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA BA BA BA BA BA AA BB AB AB AB AA BA AA 
--- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA AA AA AB AB AB AA BA BA BA BB BB BB AA 
--- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA BB AB AB AA BA AA BA BA BA BA BA BB AA 
--- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- AA BA BA BB BB BB AA BA AA AA AA AA BA AA 
+-A34-3ABA7B12ABA34-2A2(BA)6B2AB9AB3A34-2A2B2(AB)2AB3A5(BA)2B2A34-7A2(BA)B2A3(BA)6B2A34-2A4(BA)B3A2B3(AB)2AB3A34-2A2B2(AB)A3B3A5(BA)B2A34-2ABA3B2(AB)4AB5A2(BA)B2A34-7AB12ACAC2AB2A34-2A3(BA)3B4AB2ACAEAFAC3A34-3A3(BA)3B3ABCBE2(BD)BCB2A34-6ABAB5ACBE2(AD)BCB4A34-3A3(BA)3B4ACA2(DB)DAC3A34-2A2(BA)3BA2B6ACBDBGAC3A34-3A4(BA)B3AB4A2(CB)4A34-2A4(BA)B4A5(BA)B2A34B6A2BA3B2A2B3(AB)A3B2A34B6A3BA2B2A3B3(AB)A2B2A34-3A4(BA)B2A5(BA)B3A34-2A4(BA)B3AB6A2(CB)3A34-3AB2(A3B)7ACBDBGAC2A34-2A4(BA)2B5AC2(BD)ADAC2A34-7ABAB5ACAEA2(DB)C4A34-2A4(BA)2B2AB2ACAEA2(DB)C2A34-3A2(BA)3BAB2A2(BA)BCBEBFBC2A34-6AB7AB6ACAC4A34-3A3B3(AB)12AB3A34-2A3B2(AB)A2B2A2B4A2(BA)2B2A34-3A4(BA)B2A12B2A34-6A2(BA)B3A8B2(AB)2A34-2A3BAB4AB3AB4A2(BA)2B2A

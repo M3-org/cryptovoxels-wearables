@@ -3,33 +3,4 @@ size = 1 31 31, scale = 0.05, origin = -y
 material 
   colors = A:#FFF B:#111 C:#F93 D:#0C0 E:#EEE
 voxels
-- - - - - - - - - B B - B B B B B B B - B B B B B B B B - - - 
-- - - - - - - - B A A B A A A A B A A B A A A A A A A A B B - 
-- - - - - - - B A A A A A A A A A A A A A A A D D D D A A A B 
-- - - - - - - B A A A A A A A B A B B B B B A D E E D A A A B 
-- - - - - - - B A A A B B B B B A B B A A A A D D D D A A A B 
-- - - - - - - - B A A A A A A B A A B B A A A A A A A A A B - 
-- - - - - - - - - B A A A A A A A A A B B A A D D D D A B - - 
-- - - - - - - - B A A B A A A B A B B B B B A D E E D A A B - 
-- - - - - - - B A A A B A B A B A A A A A A A D D D D A A B - 
-- - - - - - B A A A A B B B B B A B B B B B A A A A A A A B - 
-- - - - - B A A A A A A A A A A A A A A A A A D D D D A A B - 
-- - - - - B A A A A A B B A B B A A A A A A A D E E D A B - - 
-- - - - - B A A A A A A A B B A A A A A A A A D D D D A A B - 
-- - - - - - B A A A A A A B A A A C C A C C A A A A A A A A B 
-- - - - - - - B A A A B B B B B A C A A A C A D D D A D A A B 
-- - - - - - - - B A A A A A A A A C A A A C A D A D A D A A B 
-- - - - - - - B A A A B B A B B A C A A A C A D A D D D A A B 
-- - - - - - B A A A A B A A A B A C C C C C A A A A A A A A B 
-- - - - - - B A A A A B A A A B A A A A A A A A A A B A A B - 
-- - - - - - - B A A A B B B B B A A A A A C A B B B B A A A B 
-- - - - - - - - B A A A A A A A A A A A A C A A A A B A A A B 
-- - - - - - - B A A A B B B B B A C C C C C A A A A A A A B B 
-- - - - - B B B A A A B E E E B A A A A A C A B B B B A B - - 
-- - - - B A A B A A A B E E E B A A A A A C A B E E B A A B - 
-- - - B A A A A A A A B B B B B A C C C A A A B B B B A A A B 
-- - - B A A A A A A A A A A A A A C E C C C A A A A A A A A B 
-- - B B A A A A A A A A A B B B A C E C E C A B B A B A A A B 
-- B A A B A A B A A A A A B E B A C E C E C A B A A B A A A B 
-- B A A B B B - B A A B B B B B A C C C C C A B B B B A A B - 
-B A B B - - - - - B A A A A A A B A A A A A B A A A A A B 
+2B8-6B2(-5B)3-BA2B5-B6A2(B5A)B3-B2A3B-B2A5BA5CA4B2AB2-2(B2A)B5ABEBA2(CE)CAB2AB3AB2-2B9A3BA2(CE)CA2BAB3AB3-B13ACE3C8AB3-B7A5BA3C3A4B3AB4-B2AB3AB3EB5ACAB2EB2AB6-3B3AB3EB5ACA4BAB9-B3A5BA5C7A2B8-B12AC4AB3AB7-B3A5B5ACA4B3AB6-B4AB3AB10AB2AB7-B4AB3ABA5C8AB7-B3A2(2BA)C3ACADA3D2AB8-B8AC3AC3(AD)2AB7-B3A5BAC3ACA3DAD2AB6-B6AB3A2CA2C8AB5-B7A2B8A4D2AB6-B5A2BA2B7AD2EDAB7-B17A4D2AB7-B4A5BA5B7AB8-B3A2(BA)B7A4D2AB9-B2AB3ABA5BAD2ED2AB10-B9A2B2A4DAB10-B6AB2A2B9AB8-B3A5BA2B4A4D3AB7-B7ABA5BAD2ED3AB7-B15A4D3AB8-B2AB4AB2AB8A2B10-2B-7B-8B3-

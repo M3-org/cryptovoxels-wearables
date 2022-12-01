@@ -3,13 +3,4 @@ size = 12 18 10, scale = 0.05, origin = -y
 material 
   colors = A:#111 B:#777 C:#EEE D:#888
 voxels
------------- ------------ ------A----- ------ADD--- --------C--- --------C--- ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ 
------------- ------A----- ------A----- ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ 
------------- ------A----- ------------ ------------ ------------ ------------ ------------ -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- ------------ ------------ 
----AA--AA--- ---AAAAAA--- ---AAAAAA--- ---AAAAAA--- ---AAAAAA--- ---AAAAAA--- ---AAAAAA--- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- ------------ ------------ 
------------- ------------ ---BBBBBB--- ---AAAAAA--- ---AAAAAA--- ---AAAAAA--- ---AAAAAA--- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- ------------ ------------ 
------------- ------------ ---BBBBBB--- ---AAAAAA--- ---AAAAAA--- ---AAAAAA--- ---AAAAAA--- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- ------------ ------------ 
------------- ------------ ---BBBBBB--- ---AAAAAA--- ---AAAAAA--- ---AAAAAA--- ---AAAAAA--- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AA------AA- -A--------A- 
------------- ------------ ---BBBBBB--- ---AAAAAA--- ---AAAAAA--- ---AAAAAA--- ---AAAAAA--- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- ------------ ------------ 
----AA--AA--- ---AA--AA--- ---ABBBBA--- ---ABBBBA--- ---AABBAA--- ---AAAAAA--- ---AAAAAA--- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- ------------ ------------ 
------------- ------------ ------------ ------------ ------------ ------------ ------------ -AAAAAAAAAA- BBAAAAAAAABB -ACCABBACCA- -ACCAAAACCA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- ------------ ------------ 
+42-A11-A2D2(11-C)220-10A-2B8A2B-A2CA2BA2CA2-A2C4A2CA5(2-10A)28-2(2A2-2A6-)2(A4BA6-)2A2B2A2(6-6A)2(4-8(10A2-)10A52-6B4(6-6A))4-9(10A2-)2A6-2A2-A8-A28-6B4(6-6A)4-8(10A2-)10A52-6B4(6-6A)4-8(10A2-)10A28-2A2-2A6(6-6A)4-8(10A2-)10A43-A66-8(10A2-)10A43-A11-A185-

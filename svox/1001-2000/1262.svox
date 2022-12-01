@@ -3,5 +3,4 @@ size = 7 24 2, scale = 0.05, origin = -y
 material 
   colors = A:#BBB B:#00B C:#111
 voxels
---BCB-- --BCB-- --BCB-- --BCB-- --BCB-- --BCB-- BBBBBBB --AAA-- --AAA-- --AAA-- --AAA-- --AAA-- --AAA-- --AAA-- --AAA-- --AAA-- --AAA-- --AAA-- --AAA-- --AAA-- --AAA-- --AAA-- --AAA-- --AAA-- 
---BCB-- --BCB-- --BCB-- --BCB-- --BCB-- --BBB-- BBBBBBB --AAA-- --AAA-- --AAA-- --AAA-- --AAA-- --AAA-- --AAA-- --AAA-- --AAA-- --AAA-- --AAA-- --AAA-- --AAA-- --AAA-- --AAA-- --AAA-- --AAA-- 
+3-3A3-5(BCB4-)BCB2-7B2-16(3A4-)5(BCB4-)3B2-7B2-16(3A4-)3A2-

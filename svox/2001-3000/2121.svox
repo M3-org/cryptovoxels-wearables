@@ -3,4 +3,4 @@ size = 32 4 4, scale = 0.05, origin = -y
 material 
   colors = A:#FFC
 voxels
-512A
+-511A

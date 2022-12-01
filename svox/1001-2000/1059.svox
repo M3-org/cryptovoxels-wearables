@@ -3,15 +3,4 @@ size = 12, scale = 0.05, origin = -y
 material 
   colors = A:#30F
 voxels
-----AAAA---- ----AAAA---- ----AAAA---- ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ 
---AAAAAAAA-- --AAAAAAAA-- --AAAAAAAA-- ----AAAA---- ----AAAA---- ----AAAA---- ------------ ------------ ------------ ------------ ------------ ------------ 
--AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- --AAAAAAAA-- --AAAAAAAA-- --AAAAAAAA-- ----AAAA---- ----AAAA---- ------------ ------------ ------------ ------------ 
--AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- --AAAAAAAA-- --AAAAAAAA-- --AAAAAAAA-- ---AAAAAA--- ---AAAAAA--- ----AAAA---- ----AAAA---- ------------ ------------ 
-AAAAAAAAAAAA AAAAAAAAAAAA AAAAAAAAAAAA -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- --AAAAAAAA-- --AAAAAAAA-- ---AAAAAA--- ---AAAAAA--- -----AA----- ------------ 
-AAAAAAAAAAAA AAAAAAAAAAAA AAAAAAAAAAAA -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- --AAAAAAAA-- --AAAAAAAA-- ---AAAAAA--- ---AAAAAA--- ----AAAA---- -----AA----- 
-AAAAAAAAAAAA AAAAAAAAAAAA AAAAAAAAAAAA -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- --AAAAAAAA-- --AAAAAAAA-- ---AAAAAA--- ---AAAAAA--- ----AAAA---- -----AA----- 
-AAAAAAAAAAAA AAAAAAAAAAAA AAAAAAAAAAAA -AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- --AAAAAAAA-- --AAAAAAAA-- ---AAAAAA--- ---AAAAAA--- -----AA----- ------------ 
--AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- --AAAAAAAA-- --AAAAAAAA-- --AAAAAAAA-- ---AAAAAA--- ---AAAAAA--- ----AAAA---- ----AAAA---- ------------ ------------ 
--AAAAAAAAAA- -AAAAAAAAAA- -AAAAAAAAAA- --AAAAAAAA-- --AAAAAAAA-- --AAAAAAAA-- ----AAAA---- ----AAAA---- ------------ ------------ ------------ ------------ 
---AAAAAAAA-- --AAAAAAAA-- --AAAAAAAA-- ----AAAA---- ----AAAA---- ----AAAA---- ------------ ------------ ------------ ------------ ------------ ------------ 
-----AAAA---- ----AAAA---- ----AAAA---- ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ 
+16-2(4A8-)4A104-2(4A8-)4A114-2(8A4-)8A6-2(4A8-)4A77-2(10A2-)10A3-2(8A4-)8A6-4A8-4A53-2(10A2-)10A3-2(8A4-)8A5-6A6-6A7-4A8-4A28-36A-2(10A2-)10A3-8A4-8A5-6A6-6A8-2A17-2(36A-2(10A2-)10A3-8A4-8A5-6A6-6A7-4A9-2A5-)36A-2(10A2-)10A3-8A4-8A5-6A6-6A8-2A18-2(10A2-)10A3-2(8A4-)8A5-6A6-6A7-4A8-4A29-2(10A2-)10A3-2(8A4-)8A6-4A8-4A54-2(8A4-)8A6-2(4A8-)4A76-
