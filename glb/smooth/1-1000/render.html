@@ -1,0 +1,45 @@
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>GLB Viewer</title>
+    <script
+      type="module"
+      src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"
+    ></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/1.3.8/FileSaver.min.js"></script>
+  </head>
+  <body>
+    <model-viewer
+      id="toggle-model"
+      src="1.glb"
+      alt="Crypto Voxel Assets"
+      shadow-intensity="1"
+      camera-controls
+      touch-action="pan-y"
+      auto-rotate
+      style="width: 100%; height: 100%;"
+    ></model-viewer>
+    <script>
+      const toggleModel = document.querySelector("#toggle-model");
+
+      const numItems = 1000;
+
+      const saveGLTFasImage = async () => {
+        for (let i = 1; i < numItems + 1; i++) {
+          toggleModel.setAttribute("src", `${i}.glb`);
+          await sleep(500);
+          const myBlob = await toggleModel.toBlob();
+          saveAs(myBlob, `model-${i}.png`);
+        }
+      };
+
+      // // non blocking sleep function
+      const sleep = (ms) => {
+        return new Promise((resolve) => setTimeout(resolve, ms));
+      };
+
+      // Start the cycle
+      saveGLTFasImage();
+    </script>
+  </body>
+</html>
