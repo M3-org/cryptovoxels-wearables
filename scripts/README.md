@@ -27,7 +27,9 @@ the images to be 192x128 resolution before montage.
 
 `horizontal_scroll.sh`
 
-Will create an mp4 scrolling animation from all the thumbnail pics.
+Will create an mp4 scrolling animation from all the thumbnail pics:
+
+https://user-images.githubusercontent.com/32600939/209912120-d9be878f-1d11-4250-a8de-f363d44862ef.mp4
 
 
 ## 4. Blender Array
