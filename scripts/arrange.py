@@ -19,6 +19,7 @@ col = 0
 for i, f in enumerate(files):
     bpy.ops.import_scene.gltf(filepath=f)
     bpy.context.active_object.location = (col*2, row*2, 0)
+    bpy.context.active_object.name = f.split('.')[0]
     col += 1
     if col == 32:
         col = 0
